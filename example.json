@@ -1,0 +1,18 @@
+{
+	"de": {
+		"values":[
+			{
+				"value": "New Game",
+				"translation": "Nieuw spel"
+			}
+		]
+	},
+	"fr": {
+		"values":[
+			{
+				"value": "New Game",
+				"translation": "Nouveau jeu"
+			}
+		]
+	}
+}
