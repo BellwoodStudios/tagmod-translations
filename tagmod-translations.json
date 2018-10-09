@@ -14,5 +14,13 @@
 				"translation": "Nouveau Jeu"
 			}
 		]
+	},
+	"it": {
+		"values":[
+	                {
+				"value": "New Game",
+				"translation": "Nuovo Gioco"
+			}
+		]
 	}
 }
