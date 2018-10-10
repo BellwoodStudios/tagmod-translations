@@ -256,6 +256,14 @@
 			{
 				"value": "Hire",
 				"translation": "Embaucher"
+			},
+			{
+				"value": "Info & Stats",
+				"translation": "Infos et statistiques"
+			},
+			{
+				"value": "Generate Report",
+				"translation": "Générer un rapport"
 			}
 		]
 	},
