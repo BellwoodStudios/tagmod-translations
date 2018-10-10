@@ -114,12 +114,16 @@
 				"translation": "Développement"
 			},
 			{
-				"value": "Current engine",
+				"value": "Current Engine",
 				"translation": "Moteur Actuel"
 			},
 			{
-				"value": "No engine",
+				"value": "No Engine",
 				"translation": "Pas de Moteur"
+			},
+			{
+				"value": "Old Engine",
+				"translation": "Vieux Moteur"
 			},
 			{
 				"value": "Story/Quests",
