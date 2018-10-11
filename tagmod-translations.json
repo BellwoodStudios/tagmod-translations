@@ -272,6 +272,258 @@
 	                {
 				"value": "New Game",
 				"translation": "Nuovo Gioco"
+			},
+			{
+				"value": "Publisher Deals",
+				"translation": "Offerte Editori"
+			},
+			{
+				"value": "Game Contracts",
+				"translation": "Contratti di Gioco"
+			},
+			{
+				"value": "Topic",
+				"translation": "Tema"
+			},
+			{
+				"value": "Genre",
+				"translation": "Genere"
+			},
+			{
+				"value": "Game Size",
+				"translation": "Dimensione Gioco"
+			},
+			{
+				"value": "Royalties",
+				"translation": "Diritti D'Autore"
+			},
+			{
+				"value": "Penalty",
+				"translation": "Penalità"
+			},
+			{
+				"value": "Up-front Pay",
+				"translation": "Stipendio Iniziale"
+			},
+			{
+				"value": "No License",
+				"translation": "Nessuna Licenza"
+			},
+			{
+				"value": "Staff",
+				"translation": "Personale"
+			},
+			{
+				"value": "Money",
+				"translation": "Denaro"
+			},
+			{
+				"value": "Payroll",
+				"translation": "Libro Paga"
+			},
+			{
+				"value": "Games",
+				"translation": "Giohi"
+			},
+			{
+				"value": "Consoles",
+				"translation": "Console"
+			},
+			{
+				"value": "Weekly",
+				"translation": "Settimanale"
+			},
+			{
+				"value": "Monthly",
+				"translation": "Mensile"
+			},
+			{
+				"value": "Annually",
+				"translation": "Annuale"
+			},
+			{
+				"value": "Level",
+				"translation": "Livello"
+			},
+			{
+				"value": "Specialization",
+				"translation": "Specializzazione"
+			},
+			{
+				"value": "No Specialization",
+				"translation": "Nessuna Specializzazione"
+			},
+			{
+				"value": "Energy",
+				"translation": "Energia"
+			},
+			{
+				"value": "Game History",
+				"translation": "Storico Giochi"
+			},
+			{
+				"value": "Game Info",
+				"translation": "Info sul Gioco"
+			},
+			{
+				"value": "Engine",
+				"translation": "Motore"
+			},
+			{
+				"value": "Development",
+				"translation": "Sviluppo"
+			},
+			{
+				"value": "Current Engine",
+				"translation": "Motore Attuale"
+			},
+			{
+				"value": "No Engine",
+				"translation": "Nessun Motore"
+			},
+			{
+				"value": "Old Engine",
+				"translation": "Vecchio Motore"
+			},
+			{
+				"value": "Story/Quests",
+				"translation": "Storia/Missioni"
+			},
+			{
+				"value": "Dialogs",
+				"translation": "Dialogo"
+			},
+			{
+				"value": "Level Design",
+				"translation": "Design Livelli"
+			},
+			{
+				"value": "AI",
+				"translation": "IA"
+			},
+			{
+				"value": "Artificial Intelligence",
+				"translation": "Intelligenza Artificiale"
+			},
+			{
+				"value": "World Design",
+				"translation": "Design Mondo di Gioco"
+			},
+			{
+				"value": "Graphic",
+				"translation": "Grafica"
+			},
+			{
+				"value": "Sound",
+				"translation": "Suono"
+			},
+			{
+				"value": "Statistics",
+				"translation": "Statistiche"
+			},
+			{
+				"value": "Units Sold",
+				"translation": "Unità Vendute"
+			},
+			{
+				"value": "Costs",
+				"translation": "Costi"
+			},
+			{
+				"value": "Revenue",
+				"translation": "Profitto"
+			},
+			{
+				"value": "Released",
+				"translation": "Data Rilascio"
+			},
+			{
+				"value": "Fans",
+				"translation": "Fan"
+			},
+			{
+				"value": "Top Sales Rank",
+				"translation": "Top Classifica di Vendita"
+			},
+			{
+				"value": "Platforms",
+				"translation": "Piattaforme"
+			},
+			{
+				"value": "Stage",
+				"translation": "Fase"
+			},
+			{
+				"value": "Time allocation",
+				"translation": "Allocazione Tempo"
+			},
+			{
+				"value": "Features",
+				"translation": "Caratteristiche"
+			},
+			{
+				"value": "Cost",
+				"translation": "Costo"
+			},
+			{
+				"value": "Overall Score",
+				"translation": "Punteggio Totale"
+			},
+			{
+				"value": "Continue",
+				"translation": "Continua"
+			},
+			{
+				"value": "Cost to Make",
+				"translation": "Costo Prodotto"
+			},
+			{
+				"value": "Fans Gained",
+				"translation": "Fan Guadagnati"
+			},
+			{
+				"value": "fans",
+				"translation": "Fan"
+			},
+			{
+				"value": "Time",
+				"translation": "Tempo"
+			},
+			{
+				"value": "Pay",
+				"translation": "Paga"
+			},
+			{
+				"value": "Marketing",
+				"translation": "Marketing"
+			},
+			{
+				"value": "Hire Staff",
+				"translation": "Assumi Personale"
+			},
+			{
+				"value": "Speed",
+				"translation": "Velocità"
+			},
+			{
+				"value": "Research",
+				"translation": "Ricerca"
+			},
+			{
+				"value": "Salary",
+				"translation": "Salario"
+			},
+			{
+				"value": "Hire",
+				"translation": "Assumi"
+			},
+			{
+				"value": "Info & Stats",
+				"translation": "Infos e Statistiche"
+			},
+			{
+				"value": "Generate Report",
+				"translation": "Genera Rapporto"
 			}
 		]
 	}
