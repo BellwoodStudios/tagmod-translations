@@ -11,15 +11,15 @@
 		"values":[
 			{
 				"value": "New Game",
-				"translation": "Nouveau Jeu"
+				"translation": "Nouvelle partie"
 			},
 			{
 				"value": "Publisher Deals",
-				"translation": "Offres de L'Editeur"
+				"translation": "Offres de l'éditeur"
 			},
 			{
 				"value": "Game Contracts",
-				"translation": "Contrats de Jeu"
+				"translation": "Contrats de jeux"
 			},
 			{
 				"value": "Topic",
@@ -31,7 +31,7 @@
 			},
 			{
 				"value": "Game Size",
-				"translation": "Taille du Projet"
+				"translation": "Taille du projet"
 			},
 			{
 				"value": "Royalties",
@@ -43,11 +43,11 @@
 			},
 			{
 				"value": "Up-front Pay",
-				"translation": "Salaire Initial"
+				"translation": "Acompte"
 			},
 			{
 				"value": "No License",
-				"translation": "Pas de License"
+				"translation": "Pas de license"
 			},
 			{
 				"value": "Staff",
@@ -59,7 +59,7 @@
 			},
 			{
 				"value": "Payroll",
-				"translation": "Registre du Personnel"
+				"translation": "Salaires"
 			},
 			{
 				"value": "Games",
@@ -67,19 +67,19 @@
 			},
 			{
 				"value": "Consoles",
-				"translation": "Consoles de Jeux"
+				"translation": "Consoles"
 			},
 			{
 				"value": "Weekly",
-				"translation": "Chaque Semaine"
+				"translation": "Hebdomadaire"
 			},
 			{
 				"value": "Monthly",
-				"translation": "Mensuellement"
+				"translation": "Mensuel"
 			},
 			{
 				"value": "Annually",
-				"translation": "Annuellement"
+				"translation": "Annuel"
 			},
 			{
 				"value": "Level",
@@ -91,7 +91,7 @@
 			},
 			{
 				"value": "No Specialization",
-				"translation": "Pas de Spécialisation"
+				"translation": "Aucune spécialisation"
 			},
 			{
 				"value": "Energy",
@@ -103,7 +103,7 @@
 			},
 			{
 				"value": "Game Info",
-				"translation": "Info sur le Jeu"
+				"translation": "Infos sur le jeu"
 			},
 			{
 				"value": "Engine",
@@ -115,15 +115,15 @@
 			},
 			{
 				"value": "Current Engine",
-				"translation": "Moteur Actuel"
+				"translation": "Moteur actuel"
 			},
 			{
 				"value": "No Engine",
-				"translation": "Pas de Moteur"
+				"translation": "Pas de moteur"
 			},
 			{
 				"value": "Old Engine",
-				"translation": "Vieux Moteur"
+				"translation": "Vieux moteur"
 			},
 			{
 				"value": "Story/Quests",
@@ -135,7 +135,7 @@
 			},
 			{
 				"value": "Level Design",
-				"translation": "Design des Niveaux"
+				"translation": "Design des niveaux"
 			},
 			{
 				"value": "AI",
@@ -147,7 +147,7 @@
 			},
 			{
 				"value": "World Design",
-				"translation": "Design du Monde"
+				"translation": "Design du monde"
 			},
 			{
 				"value": "Graphic",
@@ -163,7 +163,7 @@
 			},
 			{
 				"value": "Units Sold",
-				"translation": "Unités Vendues"
+				"translation": "Unités vendues"
 			},
 			{
 				"value": "Costs",
@@ -175,15 +175,15 @@
 			},
 			{
 				"value": "Released",
-				"translation": "Date de Sortie"
+				"translation": "Date de sortie"
 			},
 			{
 				"value": "Fans",
-				"translation": "Supporters"
+				"translation": "Fans"
 			},
 			{
 				"value": "Top Sales Rank",
-				"translation": "Classement des Ventes"
+				"translation": "Classement des ventes"
 			},
 			{
 				"value": "Platforms",
@@ -203,11 +203,11 @@
 			},
 			{
 				"value": "Cost",
-				"translation": "Dépense"
+				"translation": "Dépenses"
 			},
 			{
 				"value": "Overall Score",
-				"translation": "Score Total"
+				"translation": "Score total"
 			},
 			{
 				"value": "Continue",
@@ -215,11 +215,11 @@
 			},
 			{
 				"value": "Cost to Make",
-				"translation": "Coût à Faire"
+				"translation": "Coût de production"
 			},
 			{
 				"value": "Fans Gained",
-				"translation": "Supporters Acquis"
+				"translation": "Fans acquis"
 			},
 			{
 				"value": "fans",
@@ -235,11 +235,11 @@
 			},
 			{
 				"value": "Marketing",
-				"translation": "Commercialisation"
+				"translation": "Marketing"
 			},
 			{
 				"value": "Hire Staff",
-				"translation": "Embaucher du Personnel"
+				"translation": "Embaucher du personnel"
 			},
 			{
 				"value": "Speed",
@@ -259,7 +259,7 @@
 			},
 			{
 				"value": "Info & Stats",
-				"translation": "Infos et statistiques"
+				"translation": "Infos & Statistiques"
 			},
 			{
 				"value": "Generate Report",
