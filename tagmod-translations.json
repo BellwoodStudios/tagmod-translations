@@ -22,24 +22,28 @@
 				"translation": "Contrats de jeux"
 			},
 			{
+				"value": "Topic and Genre",
+				"translation": "Thème et Genre"
+			},
+			{
 				"value": "Topic",
 				"translation": "Thème"
 			},
 			{
-				"value": "Theme",
+				"value": "Genre",
 				"translation": "Genre"
 			},
 			{
 				"value": "Game Size",
-				"translation": "Taille du projet"
+				"translation": "Gabarit"
 			},
 			{
 				"value": "Royalties",
-				"translation": "Redevance"
-			},
+				"translation": "Royalties"
+			},			
 			{
 				"value": "Penalty",
-				"translation": "Amende"
+				"translation": "Pénalités"
 			},
 			{
 				"value": "Up-front Pay",
@@ -47,12 +51,8 @@
 			},
 			{
 				"value": "No License",
-				"translation": "Pas de license"
-			},
-			{
-				"value": "Staff",
-				"translation": "Personnel"
-			},
+				"translation": "Pas la license"
+			},		
 			{
 				"value": "Money",
 				"translation": "Argent"
@@ -86,10 +86,6 @@
 				"translation": "Niveau"
 			},
 			{
-				"value": "Specialization",
-				"translation": "Spécialisation"
-			},
-			{
 				"value": "No Specialization",
 				"translation": "Aucune spécialisation"
 			},
@@ -106,10 +102,6 @@
 				"translation": "Infos sur le jeu"
 			},
 			{
-				"value": "Engine",
-				"translation": "Moteur"
-			},
-			{
 				"value": "Development",
 				"translation": "Développement"
 			},
@@ -122,40 +114,8 @@
 				"translation": "Pas de moteur"
 			},
 			{
-				"value": "Old Engine",
-				"translation": "Vieux moteur"
-			},
-			{
-				"value": "Story/Quests",
-				"translation": "Histoire/Quêtes"
-			},
-			{
 				"value": "Dialogs",
 				"translation": "Dialogues"
-			},
-			{
-				"value": "Level Design",
-				"translation": "Design des niveaux"
-			},
-			{
-				"value": "AI",
-				"translation": "IA"
-			},
-			{
-				"value": "Artificial Intelligence",
-				"translation": "Intelligence Artificielle"
-			},
-			{
-				"value": "World Design",
-				"translation": "Design du monde"
-			},
-			{
-				"value": "Graphic",
-				"translation": "Graphismes"
-			},
-			{
-				"value": "Sound",
-				"translation": "Son"
 			},
 			{
 				"value": "Statistics",
@@ -163,11 +123,11 @@
 			},
 			{
 				"value": "Units Sold",
-				"translation": "Unités vendues"
+				"translation": "Exemplaires vendues"
 			},
 			{
 				"value": "Costs",
-				"translation": "Dépenses"
+				"translation": "Coûts"
 			},
 			{
 				"value": "Revenue",
@@ -178,20 +138,16 @@
 				"translation": "Date de sortie"
 			},
 			{
-				"value": "Fans",
-				"translation": "Fans"
-			},
-			{
 				"value": "Top Sales Rank",
-				"translation": "Classement des ventes"
+				"translation": "Meilleur classement des ventes"
 			},
 			{
 				"value": "Platforms",
-				"translation": "Plate-formes"
+				"translation": "Plateformes"
 			},
 			{
 				"value": "Stage",
-				"translation": "Étape"
+				"translation": "Phase"
 			},
 			{
 				"value": "Time allocation",
@@ -203,15 +159,11 @@
 			},
 			{
 				"value": "Cost",
-				"translation": "Dépenses"
+				"translation": "Coût"
 			},
 			{
 				"value": "Overall Score",
 				"translation": "Score total"
-			},
-			{
-				"value": "Continue",
-				"translation": "Continuer"
 			},
 			{
 				"value": "Cost to Make",
@@ -222,40 +174,16 @@
 				"translation": "Fans acquis"
 			},
 			{
-				"value": "fans",
-				"translation": "supporters"
-			},
-			{
 				"value": "Time",
 				"translation": "Temps"
 			},
 			{
 				"value": "Pay",
-				"translation": "Paie"
-			},
-			{
-				"value": "Marketing",
-				"translation": "Marketing"
-			},
-			{
-				"value": "Hire Staff",
-				"translation": "Embaucher du personnel"
-			},
-			{
-				"value": "Speed",
-				"translation": "Vitesse"
-			},
-			{
-				"value": "Research",
-				"translation": "Recherche"
+				"translation": "Honoraires"
 			},
 			{
 				"value": "Salary",
 				"translation": "Salaire"
-			},
-			{
-				"value": "Hire",
-				"translation": "Embaucher"
 			},
 			{
 				"value": "Info & Stats",
@@ -264,12 +192,44 @@
 			{
 				"value": "Generate Report",
 				"translation": "Générer un rapport"
+			},
+			{
+				"value": "Dev. Cost",
+				"translation": "Coût de dév."
+			},
+			{
+				"value": "License Cost",
+				"translation": "Coût de la licence"
+			},
+			{
+				"value": "Market Share",
+				"translation": "Parts de marché"
+			},
+			{
+				"value": "Rating",
+				"translation": "Clasificación"
+			},
+			{
+				"value": "Profit",
+				"translation": "Bénéfice"
+			},
+			{
+				"value": "Need to generate a report first.",
+				"translation": "Besoin de générer d'abord un rapport."
+			},
+			{
+				"value": "Time has elapsed to generate a report.",
+				"translation": "Le temps s'est écoulé pour générer un rapport."
+			},
+			{
+				"value": "Insights",
+				"translation": "Insights"
 			}
 		]
 	},
 	"it": {
 		"values":[
-	                {
+	        {
 				"value": "New Game",
 				"translation": "Nuovo Gioco"
 			},
@@ -306,12 +266,8 @@
 				"translation": "Stipendio Iniziale"
 			},
 			{
-				"value": "No License",
-				"translation": "Nessuna Licenza"
-			},
-			{
-				"value": "Staff",
-				"translation": "Personale"
+				"value": "no license",
+				"translation": "nessuna licenza"
 			},
 			{
 				"value": "Money",
@@ -346,10 +302,6 @@
 				"translation": "Livello"
 			},
 			{
-				"value": "Specialization",
-				"translation": "Specializzazione"
-			},
-			{
 				"value": "No Specialization",
 				"translation": "Nessuna Specializzazione"
 			},
@@ -358,16 +310,8 @@
 				"translation": "Energia"
 			},
 			{
-				"value": "Game History",
-				"translation": "Storico Giochi"
-			},
-			{
 				"value": "Game Info",
 				"translation": "Info sul Gioco"
-			},
-			{
-				"value": "Engine",
-				"translation": "Motore"
 			},
 			{
 				"value": "Development",
@@ -382,40 +326,12 @@
 				"translation": "Nessun Motore"
 			},
 			{
-				"value": "Old Engine",
-				"translation": "Vecchio Motore"
-			},
-			{
-				"value": "Story/Quests",
-				"translation": "Storia/Missioni"
-			},
-			{
 				"value": "Dialogs",
 				"translation": "Dialogo"
 			},
 			{
-				"value": "Level Design",
-				"translation": "Design Livelli"
-			},
-			{
 				"value": "AI",
 				"translation": "IA"
-			},
-			{
-				"value": "Artificial Intelligence",
-				"translation": "Intelligenza Artificiale"
-			},
-			{
-				"value": "World Design",
-				"translation": "Design Mondo di Gioco"
-			},
-			{
-				"value": "Graphic",
-				"translation": "Grafica"
-			},
-			{
-				"value": "Sound",
-				"translation": "Suono"
 			},
 			{
 				"value": "Statistics",
@@ -431,15 +347,11 @@
 			},
 			{
 				"value": "Revenue",
-				"translation": "Profitto"
+				"translation": "Reddito"
 			},
 			{
 				"value": "Released",
 				"translation": "Data Rilascio"
-			},
-			{
-				"value": "Fans",
-				"translation": "Fan"
 			},
 			{
 				"value": "Top Sales Rank",
@@ -470,20 +382,12 @@
 				"translation": "Punteggio Totale"
 			},
 			{
-				"value": "Continue",
-				"translation": "Continua"
-			},
-			{
 				"value": "Cost to Make",
 				"translation": "Costo Prodotto"
 			},
 			{
 				"value": "Fans Gained",
 				"translation": "Fan Guadagnati"
-			},
-			{
-				"value": "fans",
-				"translation": "Fan"
 			},
 			{
 				"value": "Time",
@@ -494,36 +398,44 @@
 				"translation": "Paga"
 			},
 			{
-				"value": "Marketing",
-				"translation": "Marketing"
-			},
-			{
-				"value": "Hire Staff",
-				"translation": "Assumi Personale"
-			},
-			{
-				"value": "Speed",
-				"translation": "Velocità"
-			},
-			{
-				"value": "Research",
-				"translation": "Ricerca"
-			},
-			{
-				"value": "Salary",
-				"translation": "Salario"
-			},
-			{
-				"value": "Hire",
-				"translation": "Assumi"
-			},
-			{
 				"value": "Info & Stats",
 				"translation": "Info e Statistiche"
 			},
 			{
 				"value": "Generate Report",
 				"translation": "Genera Rapporto"
+			},
+			{
+				"value": "Dev. Cost",
+				"translation": "Costo Svil."
+			},
+			{
+				"value": "License Cost",
+				"translation": "Costo Licenza"
+			},
+			{
+				"value": "Market Share",
+				"translation": "Quota di Mercato"
+			},
+			{
+				"value": "Rating",
+				"translation": "Valutazione"
+			},
+			{
+				"value": "Profit",
+				"translation": "Profitto"
+			},
+			{
+				"value": "Need to generate a report first.",
+				"translation": "Devi prima generare un rapporto."
+			},
+			{
+				"value": "Time has elapsed to generate a report.",
+				"translation": "Il tempo è scaduto per generare un rapporto."
+			},
+			{
+				"value": "Insights",
+				"translation": "Approfondimenti"
 			}
 		]
 	}
