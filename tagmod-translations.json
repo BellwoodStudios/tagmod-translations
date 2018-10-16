@@ -1,4 +1,4 @@
-{
+﻿{
 	"de": {
 		"values":[
 			{
@@ -150,7 +150,19 @@
 				"translation": "Phase"
 			},
 			{
-				"value": "Time allocation",
+				"value": "Stage 1",
+				"translation": "Phase 1"
+			},
+			{
+				"value": "Stage 2",
+				"translation": "Phase 2"
+			},
+			{
+				"value": "Stage 3",
+				"translation": "Phase 3"
+			},
+			{
+				"value": "Time Allocation",
 				"translation": "Répartition du temps"
 			},
 			{
@@ -224,6 +236,14 @@
 			{
 				"value": "Insights",
 				"translation": "Insights"
+			},
+			{
+				"value": "Engine Development",
+				"translation": "Développement du moteur"
+			},
+			{
+				"value": "Budget",
+				"translation": "Budget"
 			}
 		]
 	},
@@ -366,7 +386,19 @@
 				"translation": "Fase"
 			},
 			{
-				"value": "Time allocation",
+				"value": "Stage 1",
+				"translation": "Fase 1"
+			},
+			{
+				"value": "Stage 2",
+				"translation": "Fase 2"
+			},
+			{
+				"value": "Stage 3",
+				"translation": "Fase 3"
+			},
+			{
+				"value": "Time Allocation",
 				"translation": "Allocazione Tempo"
 			},
 			{
@@ -436,6 +468,14 @@
 			{
 				"value": "Insights",
 				"translation": "Approfondimenti"
+			},
+			{
+				"value": "Engine Development",
+				"translation": "Sviluppo del Motore"
+			},
+			{
+				"value": "Budget",
+				"translation": "Bilancio"
 			}
 		]
 	}
