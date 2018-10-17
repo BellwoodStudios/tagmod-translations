@@ -4,6 +4,742 @@
 			{
 				"value": "New Game",
 				"translation": "Nieuw Spel"
+			},
+			{
+				"value": "Publisher Deals",
+				"translation": "Publisher-Angebote"
+			},
+			{
+				"value": "Game Contracts",
+				"translation": "Spielverträge"
+			},
+			{
+				"value": "Topic and Genre",
+				"translation": "Thema und Genre"
+			},
+			{
+				"value": "Topic",
+				"translation": "Thema"
+			},
+			{
+				"value": "Genre",
+				"translation": "Genre"
+			},
+			{
+				"value": "Game Size",
+				"translation": "Spielgröße"
+			},
+			{
+				"value": "Royalties",
+				"translation": "Lizenzgebühren"
+			},			
+			{
+				"value": "Penalty",
+				"translation": "Strafe"
+			},
+			{
+				"value": "Up-front Pay",
+				"translation": "Vorauszahlung"
+			},
+			{
+				"value": "No License",
+				"translation": "Keine Lizenz"
+			},		
+			{
+				"value": "Money",
+				"translation": "Geld"
+			},
+			{
+				"value": "Payroll",
+				"translation": "Lohn-und Gehaltsabrechnung"
+			},
+			{
+				"value": "Games",
+				"translation": "Spiele"
+			},
+			{
+				"value": "Consoles",
+				"translation": "Konsolen"
+			},
+			{
+				"value": "Weekly",
+				"translation": "Wöchentlich"
+			},
+			{
+				"value": "Monthly",
+				"translation": "Monatlich"
+			},
+			{
+				"value": "Annually",
+				"translation": "Jährlich"
+			},
+			{
+				"value": "Level",
+				"translation": "Niveau"
+			},
+			{
+				"value": "No Specialization",
+				"translation": "Keine Spezialisierung"
+			},
+			{
+				"value": "Energy",
+				"translation": "Energie"
+			},
+			{
+				"value": "Game History",
+				"translation": "Spielgeschichte"
+			},
+			{
+				"value": "Game Info",
+				"translation": "Spielinformationen"
+			},
+			{
+				"value": "Development",
+				"translation": "Entwicklung"
+			},
+			{
+				"value": "Current Engine",
+				"translation": "Aktueller Motor"
+			},
+			{
+				"value": "No Engine",
+				"translation": "Kein Motor"
+			},
+			{
+				"value": "Dialogues",
+				"translation": "Dialoge"
+			},
+			{
+				"value": "Statistics",
+				"translation": "Statistiken"
+			},
+			{
+				"value": "Units Sold",
+				"translation": "Einheiten verkauft"
+			},
+			{
+				"value": "Costs",
+				"translation": "Kosten"
+			},
+			{
+				"value": "Revenue",
+				"translation": "Einnahmen"
+			},
+			{
+				"value": "Released",
+				"translation": "Veröffentlicht"
+			},
+			{
+				"value": "Top Sales Rank",
+				"translation": "Top-Verkaufsrang"
+			},
+			{
+				"value": "Platforms",
+				"translation": "Plattformen"
+			},
+			{
+				"value": "Stage",
+				"translation": "Phase"
+			},
+			{
+				"value": "Stage 1",
+				"translation": "Phase 1"
+			},
+			{
+				"value": "Stage 2",
+				"translation": "Phase 2"
+			},
+			{
+				"value": "Stage 3",
+				"translation": "Phase 3"
+			},
+			{
+				"value": "Time Allocation",
+				"translation": "Zeitzuweisung"
+			},
+			{
+				"value": "Features",
+				"translation": "Eigenschaften"
+			},
+			{
+				"value": "Cost",
+				"translation": "Kosten"
+			},
+			{
+				"value": "Overall Score",
+				"translation": "Gesamtpunktzahl"
+			},
+			{
+				"value": "Cost to Make",
+				"translation": "Kosten zu machen"
+			},
+			{
+				"value": "Fans Gained",
+				"translation": "Fans gewonnen"
+			},
+			{
+				"value": "Time",
+				"translation": "Zeit"
+			},
+			{
+				"value": "Pay",
+				"translation": "Bezahlung"
+			},
+			{
+				"value": "Salary",
+				"translation": "Gehalt"
+			},
+			{
+				"value": "Info & Stats",
+				"translation": "Informationen und Statistiken"
+			},
+			{
+				"value": "Generate Report",
+				"translation": "Bericht generieren"
+			},
+			{
+				"value": "Dev. Cost",
+				"translation": "Entwicklungskosten"
+			},
+			{
+				"value": "License Cost",
+				"translation": "Lizenzkosten"
+			},
+			{
+				"value": "Market Share",
+				"translation": "Marktanteil"
+			},
+			{
+				"value": "Rating",
+				"translation": "Einstufung"
+			},
+			{
+				"value": "Profit",
+				"translation": "Profitieren"
+			},
+			{
+				"value": "Need to generate a report first.",
+				"translation": "Müssen Sie zuerst einen Bericht erstellen."
+			},
+			{
+				"value": "Time has elapsed to generate a report.",
+				"translation": "Die Zeit ist abgelaufen, um einen Bericht zu generieren."
+			},
+			{
+				"value": "Insights",
+				"translation": "Einblicke"
+			},
+			{
+				"value": "Engine Development",
+				"translation": "Motor Entwicklung"
+			},
+			{
+				"value": "Budget",
+				"translation": "Budget"
+			},
+			{
+				"value": "Select Staff",
+				"translation": "Wählen Sie Mitarbeiter"
+			},
+			{
+				"value": "Choose Engine",
+				"translation": "Wähle Motor"
+			}
+		]
+	},
+	"ru": {
+		"values":[
+			{
+				"value": "New Game",
+				"translation": "Новая игра"
+			},
+			{
+				"value": "Publisher Deals",
+				"translation": "Предложения издателя"
+			},
+			{
+				"value": "Game Contracts",
+				"translation": "Игровые контракты"
+			},
+			{
+				"value": "Topic and Genre",
+				"translation": "Тема и жанр"
+			},
+			{
+				"value": "Topic",
+				"translation": "Тема"
+			},
+			{
+				"value": "Genre",
+				"translation": "Жанр"
+			},
+			{
+				"value": "Game Size",
+				"translation": "Размер игры"
+			},
+			{
+				"value": "Royalties",
+				"translation": "отчисления"
+			},			
+			{
+				"value": "Penalty",
+				"translation": "Штрафы"
+			},
+			{
+				"value": "Up-front Pay",
+				"translation": "Плата за авансовый платеж"
+			},
+			{
+				"value": "No License",
+				"translation": "Нет лицензии"
+			},		
+			{
+				"value": "Money",
+				"translation": "Деньги"
+			},
+			{
+				"value": "Payroll",
+				"translation": "Платежная ведомость"
+			},
+			{
+				"value": "Games",
+				"translation": "Игры"
+			},
+			{
+				"value": "Consoles",
+				"translation": "консоли"
+			},
+			{
+				"value": "Weekly",
+				"translation": "еженедельно"
+			},
+			{
+				"value": "Monthly",
+				"translation": "ежемесячно"
+			},
+			{
+				"value": "Annually",
+				"translation": "ежегодно"
+			},
+			{
+				"value": "Level",
+				"translation": "уровень"
+			},
+			{
+				"value": "No Specialization",
+				"translation": "Нет специализации"
+			},
+			{
+				"value": "Energy",
+				"translation": "энергии"
+			},
+			{
+				"value": "Game History",
+				"translation": "История игры"
+			},
+			{
+				"value": "Game Info",
+				"translation": "Информация об игре"
+			},
+			{
+				"value": "Development",
+				"translation": "развитие"
+			},
+			{
+				"value": "Current Engine",
+				"translation": "Текущий двигатель"
+			},
+			{
+				"value": "No Engine",
+				"translation": "Нет двигателя"
+			},
+			{
+				"value": "Dialogues",
+				"translation": "Диалоги"
+			},
+			{
+				"value": "Statistics",
+				"translation": "Статистика"
+			},
+			{
+				"value": "Units Sold",
+				"translation": "Проданных единиц"
+			},
+			{
+				"value": "Costs",
+				"translation": "Расходы"
+			},
+			{
+				"value": "Revenue",
+				"translation": "доходов"
+			},
+			{
+				"value": "Released",
+				"translation": "опубликованный"
+			},
+			{
+				"value": "Top Sales Rank",
+				"translation": "Топ-рейтинг продаж"
+			},
+			{
+				"value": "Platforms",
+				"translation": "платформы"
+			},
+			{
+				"value": "Stage",
+				"translation": "стадия"
+			},
+			{
+				"value": "Stage 1",
+				"translation": "стадия 1"
+			},
+			{
+				"value": "Stage 2",
+				"translation": "стадия 2"
+			},
+			{
+				"value": "Stage 3",
+				"translation": "стадия 3"
+			},
+			{
+				"value": "Time Allocation",
+				"translation": "Распределение времени"
+			},
+			{
+				"value": "Features",
+				"translation": "Характеристики"
+			},
+			{
+				"value": "Cost",
+				"translation": "Стоимость"
+			},
+			{
+				"value": "Overall Score",
+				"translation": "Общая оценка"
+			},
+			{
+				"value": "Cost to Make",
+				"translation": "Стоимость изготовления"
+			},
+			{
+				"value": "Fans Gained",
+				"translation": "Поклонники, полученные"
+			},
+			{
+				"value": "Time",
+				"translation": "Время"
+			},
+			{
+				"value": "Pay",
+				"translation": "плата"
+			},
+			{
+				"value": "Salary",
+				"translation": "Оплата труда"
+			},
+			{
+				"value": "Info & Stats",
+				"translation": "Информация и статистика"
+			},
+			{
+				"value": "Generate Report",
+				"translation": "Создать отчет"
+			},
+			{
+				"value": "Dev. Cost",
+				"translation": "Стоимость разработки"
+			},
+			{
+				"value": "License Cost",
+				"translation": "Стоимость лицензии"
+			},
+			{
+				"value": "Market Share",
+				"translation": "Рыночная доля"
+			},
+			{
+				"value": "Rating",
+				"translation": "классификация"
+			},
+			{
+				"value": "Profit",
+				"translation": "прибыль"
+			},
+			{
+				"value": "Need to generate a report first.",
+				"translation": "Необходимо сначала создать отчет."
+			},
+			{
+				"value": "Time has elapsed to generate a report.",
+				"translation": "Прошло время для создания отчета."
+			},
+			{
+				"value": "Insights",
+				"translation": "понимание"
+			},
+			{
+				"value": "Engine Development",
+				"translation": "Разработка двигателей"
+			},
+			{
+				"value": "Budget",
+				"translation": "бюджет"
+			},
+			{
+				"value": "Select Staff",
+				"translation": "Выберите Персонал"
+			},
+			{
+				"value": "Choose Engine",
+				"translation": "Выберите двигатель"
+			}
+		]
+	},
+	"es": {
+		"values":[
+			{
+				"value": "New Game",
+				"translation": "Nuevo juego"
+			},
+			{
+				"value": "Publisher Deals",
+				"translation": "Ofertas de editor"
+			},
+			{
+				"value": "Game Contracts",
+				"translation": "Contratos de juego"
+			},
+			{
+				"value": "Topic and Genre",
+				"translation": "Tema y género"
+			},
+			{
+				"value": "Topic",
+				"translation": "Tema"
+			},
+			{
+				"value": "Genre",
+				"translation": "Género"
+			},
+			{
+				"value": "Game Size",
+				"translation": "Tamaño del juego"
+			},
+			{
+				"value": "Royalties",
+				"translation": "Regalías"
+			},			
+			{
+				"value": "Penalty",
+				"translation": "Penalizaciones"
+			},
+			{
+				"value": "Up-front Pay",
+				"translation": "Pago por adelantado"
+			},
+			{
+				"value": "No License",
+				"translation": "Sin licencia"
+			},		
+			{
+				"value": "Money",
+				"translation": "Dinero"
+			},
+			{
+				"value": "Payroll",
+				"translation": "Nómina de sueldos"
+			},
+			{
+				"value": "Games",
+				"translation": "Juegos"
+			},
+			{
+				"value": "Consoles",
+				"translation": "Consolas"
+			},
+			{
+				"value": "Weekly",
+				"translation": "Semanal"
+			},
+			{
+				"value": "Monthly",
+				"translation": "Mensual"
+			},
+			{
+				"value": "Annually",
+				"translation": "Anualmente"
+			},
+			{
+				"value": "Level",
+				"translation": "Nivel"
+			},
+			{
+				"value": "No Specialization",
+				"translation": "No Especialización"
+			},
+			{
+				"value": "Energy",
+				"translation": "Energía"
+			},
+			{
+				"value": "Game History",
+				"translation": "Historia del juego"
+			},
+			{
+				"value": "Game Info",
+				"translation": "Información del juego"
+			},
+			{
+				"value": "Development",
+				"translation": "Desarrollo"
+			},
+			{
+				"value": "Current Engine",
+				"translation": "Motor actual"
+			},
+			{
+				"value": "No Engine",
+				"translation": "Sin motor"
+			},
+			{
+				"value": "Dialogues",
+				"translation": "Diálogos"
+			},
+			{
+				"value": "Statistics",
+				"translation": "Estadística"
+			},
+			{
+				"value": "Units Sold",
+				"translation": "Unidades vendidas"
+			},
+			{
+				"value": "Costs",
+				"translation": "Costos"
+			},
+			{
+				"value": "Revenue",
+				"translation": "Ingresos"
+			},
+			{
+				"value": "Released",
+				"translation": "Publicado"
+			},
+			{
+				"value": "Top Sales Rank",
+				"translation": "Rango de ventas superior"
+			},
+			{
+				"value": "Platforms",
+				"translation": "Plataformas"
+			},
+			{
+				"value": "Stage",
+				"translation": "Etapa"
+			},
+			{
+				"value": "Stage 1",
+				"translation": "Etapa 1"
+			},
+			{
+				"value": "Stage 2",
+				"translation": "Etapa 2"
+			},
+			{
+				"value": "Stage 3",
+				"translation": "Etapa 3"
+			},
+			{
+				"value": "Time Allocation",
+				"translation": "Asignación de tiempo"
+			},
+			{
+				"value": "Features",
+				"translation": "Caracteristicas"
+			},
+			{
+				"value": "Cost",
+				"translation": "Costo"
+			},
+			{
+				"value": "Overall Score",
+				"translation": "Puntaje general"
+			},
+			{
+				"value": "Cost to Make",
+				"translation": "Costo de hacer"
+			},
+			{
+				"value": "Fans Gained",
+				"translation": "Aficionados ganados"
+			},
+			{
+				"value": "Time",
+				"translation": "Hora"
+			},
+			{
+				"value": "Pay",
+				"translation": "Paga"
+			},
+			{
+				"value": "Salary",
+				"translation": "Salario"
+			},
+			{
+				"value": "Info & Stats",
+				"translation": "Información y estadísticas"
+			},
+			{
+				"value": "Generate Report",
+				"translation": "Generar informe"
+			},
+			{
+				"value": "Dev. Cost",
+				"translation": "Costo de desarrollo"
+			},
+			{
+				"value": "License Cost",
+				"translation": "Costo de la licencia"
+			},
+			{
+				"value": "Market Share",
+				"translation": "Cuota de mercado"
+			},
+			{
+				"value": "Rating",
+				"translation": "Clasificación"
+			},
+			{
+				"value": "Profit",
+				"translation": "Lucro"
+			},
+			{
+				"value": "Need to generate a report first.",
+				"translation": "Necesita generar un informe primero."
+			},
+			{
+				"value": "Time has elapsed to generate a report.",
+				"translation": "Ha transcurrido el tiempo para generar un informe."
+			},
+			{
+				"value": "Insights",
+				"translation": "Insights"
+			},
+			{
+				"value": "Engine Development",
+				"translation": "Desarrollo del motor"
+			},
+			{
+				"value": "Budget",
+				"translation": "Presupuesto"
+			},
+			{
+				"value": "Select Staff",
+				"translation": "Seleccione personal"
+			},
+			{
+				"value": "Choose Engine",
+				"translation": "Elegir motor"
 			}
 		]
 	},
@@ -114,7 +850,7 @@
 				"translation": "Pas de moteur"
 			},
 			{
-				"value": "Dialogs",
+				"value": "Dialogues",
 				"translation": "Dialogues"
 			},
 			{
@@ -358,7 +1094,7 @@
 				"translation": "Nessun Motore"
 			},
 			{
-				"value": "Dialogs",
+				"value": "Dialogues",
 				"translation": "Dialogo"
 			},
 			{
