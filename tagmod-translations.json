@@ -3,7 +3,7 @@
 		"values":[
 			{
 				"value": "New Game",
-				"translation": "Nieuw Spel"
+				"translation": "Neues Spiel"
 			},
 			{
 				"value": "Publisher Deals",
@@ -35,7 +35,7 @@
 			},			
 			{
 				"value": "Penalty",
-				"translation": "Strafe"
+				"translation": "Buße"
 			},
 			{
 				"value": "Up-front Pay",
@@ -87,7 +87,7 @@
 			},
 			{
 				"value": "Game History",
-				"translation": "Spielgeschichte"
+				"translation": "Veröffentlichte Spiele"
 			},
 			{
 				"value": "Game Info",
@@ -99,11 +99,11 @@
 			},
 			{
 				"value": "Current Engine",
-				"translation": "Aktueller Motor"
+				"translation": "Aktuelles Engine"
 			},
 			{
 				"value": "No Engine",
-				"translation": "Kein Motor"
+				"translation": "Keine Engine"
 			},
 			{
 				"value": "Dialogues",
@@ -171,11 +171,11 @@
 			},
 			{
 				"value": "Cost to Make",
-				"translation": "Kosten zu machen"
+				"translation": "Kosten"
 			},
 			{
 				"value": "Fans Gained",
-				"translation": "Fans gewonnen"
+				"translation": "Fans Gewonnen"
 			},
 			{
 				"value": "Time",
@@ -195,7 +195,7 @@
 			},
 			{
 				"value": "Generate Report",
-				"translation": "Bericht generieren"
+				"translation": "Bericht Generieren"
 			},
 			{
 				"value": "Dev. Cost",
@@ -219,11 +219,11 @@
 			},
 			{
 				"value": "Need to generate a report first.",
-				"translation": "Müssen Sie zuerst einen Bericht erstellen."
+				"translation": "Du musst zuerst einen Bericht erstellen."
 			},
 			{
 				"value": "Time has elapsed to generate a report.",
-				"translation": "Die Zeit ist abgelaufen, um einen Bericht zu generieren."
+				"translation": "Die Zeit ist abgelaufen um einen Bericht zu generieren."
 			},
 			{
 				"value": "Insights",
@@ -231,7 +231,7 @@
 			},
 			{
 				"value": "Engine Development",
-				"translation": "Motor Entwicklung"
+				"translation": "Engine-entwicklung"
 			},
 			{
 				"value": "Budget",
@@ -239,11 +239,11 @@
 			},
 			{
 				"value": "Select Staff",
-				"translation": "Wählen Sie Mitarbeiter"
+				"translation": "Personal Auswählen"
 			},
 			{
 				"value": "Choose Engine",
-				"translation": "Wähle Motor"
+				"translation": "Engine Auswählen"
 			}
 		]
 	},
@@ -1232,6 +1232,254 @@
 			{
 				"value": "Choose Engine",
 				"translation": "Scegli il Motore"
+			}
+		]
+	},
+	"nl": {
+		"values":[
+			{
+				"value": "New Game",
+				"translation": "Nieuwe Game"
+			},
+			{
+				"value": "Publisher Deals",
+				"translation": "Uitgevercontracten"
+			},
+			{
+				"value": "Game Contracts",
+				"translation": "Gamecontracten"
+			},
+			{
+				"value": "Topic and Genre",
+				"translation": "Onderwerp en Genre"
+			},
+			{
+				"value": "Topic",
+				"translation": "Onderwerp"
+			},
+			{
+				"value": "Genre",
+				"translation": "Genre"
+			},
+			{
+				"value": "Game Size",
+				"translation": "Gamegrootte"
+			},
+			{
+				"value": "Royalties",
+				"translation": "Royalties"
+			},			
+			{
+				"value": "Penalty",
+				"translation": "Boete"
+			},
+			{
+				"value": "Up-front Pay",
+				"translation": "Vooruitbetaling"
+			},
+			{
+				"value": "No License",
+				"translation": "Geen Licentie"
+			},		
+			{
+				"value": "Money",
+				"translation": "Geld"
+			},
+			{
+				"value": "Payroll",
+				"translation": "Financiële Balans"
+			},
+			{
+				"value": "Games",
+				"translation": "Games"
+			},
+			{
+				"value": "Consoles",
+				"translation": "Consoles"
+			},
+			{
+				"value": "Weekly",
+				"translation": "Wekelijks"
+			},
+			{
+				"value": "Monthly",
+				"translation": "Maandelijks"
+			},
+			{
+				"value": "Annually",
+				"translation": "Jaarlijks"
+			},
+			{
+				"value": "Level",
+				"translation": "Niveau"
+			},
+			{
+				"value": "No Specialization",
+				"translation": "Geen Specialisatie"
+			},
+			{
+				"value": "Energy",
+				"translation": "Energie"
+			},
+			{
+				"value": "Game History",
+				"translation": "Uitgebrachte Games"
+			},
+			{
+				"value": "Game Info",
+				"translation": "Game-informatie"
+			},
+			{
+				"value": "Development",
+				"translation": "Ontwikkeling"
+			},
+			{
+				"value": "Current Engine",
+				"translation": "Huidige Engine"
+			},
+			{
+				"value": "No Engine",
+				"translation": "Geen Engine"
+			},
+			{
+				"value": "Dialogues",
+				"translation": "Dialogen"
+			},
+			{
+				"value": "Statistics",
+				"translation": "Statistieken"
+			},
+			{
+				"value": "Units Sold",
+				"translation": "Aantal Verkocht"
+			},
+			{
+				"value": "Costs",
+				"translation": "Kosten"
+			},
+			{
+				"value": "Revenue",
+				"translation": "Opbrengst"
+			},
+			{
+				"value": "Released",
+				"translation": "Uitgebracht"
+			},
+			{
+				"value": "Top Sales Rank",
+				"translation": "Bestseller"
+			},
+			{
+				"value": "Platforms",
+				"translation": "Platforms"
+			},
+			{
+				"value": "Stage",
+				"translation": "Fase"
+			},
+			{
+				"value": "Stage 1",
+				"translation": "Fase 1"
+			},
+			{
+				"value": "Stage 2",
+				"translation": "Fase 2"
+			},
+			{
+				"value": "Stage 3",
+				"translation": "Fase 3"
+			},
+			{
+				"value": "Time Allocation",
+				"translation": "Tijdsbesteding"
+			},
+			{
+				"value": "Features",
+				"translation": "Features"
+			},
+			{
+				"value": "Cost",
+				"translation": "Kosten"
+			},
+			{
+				"value": "Overall Score",
+				"translation": "Totale Score"
+			},
+			{
+				"value": "Cost to Make",
+				"translation": "Kosten"
+			},
+			{
+				"value": "Fans Gained",
+				"translation": "Fans Gewonnen"
+			},
+			{
+				"value": "Time",
+				"translation": "Tijd"
+			},
+			{
+				"value": "Pay",
+				"translation": "Betaling"
+			},
+			{
+				"value": "Salary",
+				"translation": "Salaris"
+			},
+			{
+				"value": "Info & Stats",
+				"translation": "Informatie en Statistieken"
+			},
+			{
+				"value": "Generate Report",
+				"translation": "Rapport Genereren"
+			},
+			{
+				"value": "Dev. Cost",
+				"translation": "Ontwikkelingskosten"
+			},
+			{
+				"value": "License Cost",
+				"translation": "Licentiekosten"
+			},
+			{
+				"value": "Market Share",
+				"translation": "Marktaandeel"
+			},
+			{
+				"value": "Rating",
+				"translation": "Classificatie"
+			},
+			{
+				"value": "Profit",
+				"translation": "Winst"
+			},
+			{
+				"value": "Need to generate a report first.",
+				"translation": "Je moet eerst een rapport opstellen."
+			},
+			{
+				"value": "Time has elapsed to generate a report.",
+				"translation": "Je kunt geen rapport meer opstellen."
+			},
+			{
+				"value": "Insights",
+				"translation": "Ontdekkingen"
+			},
+			{
+				"value": "Engine Development",
+				"translation": "Engine-ontwikkeling"
+			},
+			{
+				"value": "Budget",
+				"translation": "Budget"
+			},
+			{
+				"value": "Select Staff",
+				"translation": "Werknemers Kiezen"
+			},
+			{
+				"value": "Choose Engine",
+				"translation": "Engine Kiezen"
 			}
 		]
 	}
