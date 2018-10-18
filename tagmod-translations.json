@@ -3,7 +3,7 @@
 		"values":[
 			{
 				"value": "New Game",
-				"translation": "Nieuw Spel"
+				"translation": "Neues Spiel"
 			},
 			{
 				"value": "Publisher Deals",
@@ -35,7 +35,7 @@
 			},			
 			{
 				"value": "Penalty",
-				"translation": "Strafe"
+				"translation": "Buße"
 			},
 			{
 				"value": "Up-front Pay",
@@ -87,7 +87,7 @@
 			},
 			{
 				"value": "Game History",
-				"translation": "Spielgeschichte"
+				"translation": "Veröffentlichte Spiele"
 			},
 			{
 				"value": "Game Info",
@@ -99,11 +99,11 @@
 			},
 			{
 				"value": "Current Engine",
-				"translation": "Aktueller Motor"
+				"translation": "Aktuelles Engine"
 			},
 			{
 				"value": "No Engine",
-				"translation": "Kein Motor"
+				"translation": "Keine Engine"
 			},
 			{
 				"value": "Dialogues",
@@ -171,11 +171,11 @@
 			},
 			{
 				"value": "Cost to Make",
-				"translation": "Kosten zu machen"
+				"translation": "Kosten"
 			},
 			{
 				"value": "Fans Gained",
-				"translation": "Fans gewonnen"
+				"translation": "Fans Gewonnen"
 			},
 			{
 				"value": "Time",
@@ -195,7 +195,7 @@
 			},
 			{
 				"value": "Generate Report",
-				"translation": "Bericht generieren"
+				"translation": "Bericht Generieren"
 			},
 			{
 				"value": "Dev. Cost",
@@ -219,11 +219,11 @@
 			},
 			{
 				"value": "Need to generate a report first.",
-				"translation": "Müssen Sie zuerst einen Bericht erstellen."
+				"translation": "Du musst zuerst einen Bericht erstellen."
 			},
 			{
 				"value": "Time has elapsed to generate a report.",
-				"translation": "Die Zeit ist abgelaufen, um einen Bericht zu generieren."
+				"translation": "Die Zeit ist abgelaufen um einen Bericht zu generieren."
 			},
 			{
 				"value": "Insights",
@@ -231,7 +231,7 @@
 			},
 			{
 				"value": "Engine Development",
-				"translation": "Motor Entwicklung"
+				"translation": "Engine-entwicklung"
 			},
 			{
 				"value": "Budget",
@@ -239,11 +239,11 @@
 			},
 			{
 				"value": "Select Staff",
-				"translation": "Wählen Sie Mitarbeiter"
+				"translation": "Personal Auswählen"
 			},
 			{
 				"value": "Choose Engine",
-				"translation": "Wähle Motor"
+				"translation": "Engine Auswählen"
 			}
 		]
 	},
