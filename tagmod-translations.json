@@ -244,6 +244,20 @@
 			{
 				"value": "Choose Engine",
 				"translation": "Wähle Motor"
+			},
+			{
+				"value": "Develop Expansion Pack",
+				"translation": "Entwickeln Erweiterungspaket"
+			},
+			{
+				"value": "Y{0}",
+				"comment": "date display",
+				"translation": "J{0}"
+			},
+			{
+				"value": "Y{0} M{1}",
+				"comment": "date display",
+				"translation": "J{0} M{1}"
 			}
 		]
 	},
@@ -492,6 +506,20 @@
 			{
 				"value": "Choose Engine",
 				"translation": "Выберите двигатель"
+			},
+			{
+				"value": "Develop Expansion Pack",
+				"translation": "Разработка пакета расширения"
+			},
+			{
+				"value": "Y{0}",
+				"comment": "date display",
+				"translation": "Г{0}"
+			},
+			{
+				"value": "Y{0} М{1}",
+				"comment": "date display",
+				"translation": "Г{0} М{1}"
 			}
 		]
 	},
@@ -740,6 +768,20 @@
 			{
 				"value": "Choose Engine",
 				"translation": "Elegir motor"
+			},
+			{
+				"value": "Develop Expansion Pack",
+				"translation": "Desarrollar paquete de expansión"
+			},
+			{
+				"value": "Y{0}",
+				"comment": "date display",
+				"translation": "A{0}"
+			},
+			{
+				"value": "Y{0} М{1}",
+				"comment": "date display",
+				"translation": "A{0} М{1}"
 			}
 		]
 	},
@@ -988,12 +1030,26 @@
 			{
 				"value": "Choose Engine",
 				"translation": "Choisir le moteur"
+			},
+			{
+				"value": "Develop Expansion Pack",
+				"translation": "Développer le pack d'extension"
+			},
+			{
+				"value": "Y{0}",
+				"comment": "date display",
+				"translation": "A{0}"
+			},
+			{
+				"value": "Y{0} М{1}",
+				"comment": "date display",
+				"translation": "A{0} М{1}"
 			}
 		]
 	},
 	"it": {
 		"values":[
-	        {
+	        	{
 				"value": "New Game",
 				"translation": "Nuovo Gioco"
 			},
@@ -1232,6 +1288,20 @@
 			{
 				"value": "Choose Engine",
 				"translation": "Scegli il Motore"
+			},
+			{
+				"value": "Develop Expansion Pack",
+				"translation": "Sviluppa il pacchetto di espansione"
+			},
+			{
+				"value": "Y{0}",
+				"comment": "date display",
+				"translation": "A{0}"
+			},
+			{
+				"value": "Y{0} М{1}",
+				"comment": "date display",
+				"translation": "A{0} М{1}"
 			}
 		]
 	}
