@@ -1,4 +1,266 @@
 ﻿{
+	"cs": {
+		"values":[
+			{
+				"value": "New Game",
+				"translation": "Nová hra"
+			},
+			{
+				"value": "Publisher Deals",
+				"translation": "Úvěry vydavatelů"
+			},
+			{
+				"value": "Game Contracts",
+				"translation": "Herní smlouvy"
+			},
+			{
+				"value": "Topic and Genre",
+				"translation": "Téma a žánr"
+			},
+			{
+				"value": "Topic",
+				"translation": "Téma"
+			},
+			{
+				"value": "Genre",
+				"translation": "Žánr"
+			},
+			{
+				"value": "Game Size",
+				"translation": "Velikost hry"
+			},
+			{
+				"value": "Royalties",
+				"translation": "Licenční poplatky"
+			},			
+			{
+				"value": "Penalty",
+				"translation": "Pokuta"
+			},
+			{
+				"value": "Up-front Pay",
+				"translation": "Přední plat"
+			},
+			{
+				"value": "No License",
+				"translation": "Žádná licence"
+			},		
+			{
+				"value": "Money",
+				"translation": "Peníze"
+			},
+			{
+				"value": "Payroll",
+				"translation": "Mzdy"
+			},
+			{
+				"value": "Games",
+				"translation": "Hry"
+			},
+			{
+				"value": "Consoles",
+				"translation": "Konzoly"
+			},
+			{
+				"value": "Weekly",
+				"translation": "Týdně"
+			},
+			{
+				"value": "Monthly",
+				"translation": "Měsíční"
+			},
+			{
+				"value": "Annually",
+				"translation": "Každoročně"
+			},
+			{
+				"value": "Level",
+				"translation": "Úroveň"
+			},
+			{
+				"value": "No Specialization",
+				"translation": "Žádná specializace"
+			},
+			{
+				"value": "Energy",
+				"translation": "Energie"
+			},
+			{
+				"value": "Game History",
+				"translation": "Historie hry"
+			},
+			{
+				"value": "Game Info",
+				"translation": "Informace o hře"
+			},
+			{
+				"value": "Development",
+				"translation": "Rozvoj"
+			},
+			{
+				"value": "Current Engine",
+				"translation": "Rozvoj"
+			},
+			{
+				"value": "No Engine",
+				"translation": "Žádný motor"
+			},
+			{
+				"value": "Dialogues",
+				"translation": "Dialogy"
+			},
+			{
+				"value": "Statistics",
+				"translation": "Statistika"
+			},
+			{
+				"value": "Units Sold",
+				"translation": "Jednotky byly prodány"
+			},
+			{
+				"value": "Costs",
+				"translation": "Náklady"
+			},
+			{
+				"value": "Revenue",
+				"translation": "Výnosy"
+			},
+			{
+				"value": "Released",
+				"translation": "Publikováno"
+			},
+			{
+				"value": "Top Sales Rank",
+				"translation": "Nejvyšší hodnocení prodeje"
+			},
+			{
+				"value": "Platforms",
+				"translation": "Platformy"
+			},
+			{
+				"value": "Stage",
+				"translation": "Fáze"
+			},
+			{
+				"value": "Stage 1",
+				"translation": "Fáze 1"
+			},
+			{
+				"value": "Stage 2",
+				"translation": "Fáze 2"
+			},
+			{
+				"value": "Stage 3",
+				"translation": "Fáze 3"
+			},
+			{
+				"value": "Time Allocation",
+				"translation": "Přidělování času"
+			},
+			{
+				"value": "Features",
+				"translation": "Funkce"
+			},
+			{
+				"value": "Cost",
+				"translation": "Náklady"
+			},
+			{
+				"value": "Overall Score",
+				"translation": "Celkové skóre"
+			},
+			{
+				"value": "Cost to Make",
+				"translation": "Náklady na výrobu"
+			},
+			{
+				"value": "Fans Gained",
+				"translation": "Fanoušci získali"
+			},
+			{
+				"value": "Time",
+				"translation": "Čas"
+			},
+			{
+				"value": "Pay",
+				"translation": "Platit"
+			},
+			{
+				"value": "Salary",
+				"translation": "Služné"
+			},
+			{
+				"value": "Info & Stats",
+				"translation": "Informace a statistiky"
+			},
+			{
+				"value": "Generate Report",
+				"translation": "Generovat přehled"
+			},
+			{
+				"value": "Dev. Cost",
+				"translation": "Vývojové náklady"
+			},
+			{
+				"value": "License Cost",
+				"translation": "Cena licence"
+			},
+			{
+				"value": "Market Share",
+				"translation": "Podíl na trhu"
+			},
+			{
+				"value": "Rating",
+				"translation": "Hodnocení"
+			},
+			{
+				"value": "Profit",
+				"translation": "Zisk"
+			},
+			{
+				"value": "Need to generate a report first.",
+				"translation": "Nejprve potřebujete vytvořit zprávu."
+			},
+			{
+				"value": "Time has elapsed to generate a report.",
+				"translation": "Čas vypršel pro generování sestavy."
+			},
+			{
+				"value": "Insights",
+				"translation": "Poznatky"
+			},
+			{
+				"value": "Engine Development",
+				"translation": "Vývoj motoru"
+			},
+			{
+				"value": "Budget",
+				"translation": "Rozpočet"
+			},
+			{
+				"value": "Select Staff",
+				"translation": "Vyberte pracovníky"
+			},
+			{
+				"value": "Choose Engine",
+				"translation": "Zvolte Motor"
+			},
+			{
+				"value": "Develop Expansion Pack",
+				"translation": "Vyvíjejte rozšiřující balíček"
+			},
+			{
+				"value": "Y{0}",
+				"comment": "date display",
+				"translation": "R{0}"
+			},
+			{
+				"value": "Y{0} M{1}",
+				"comment": "date display",
+				"translation": "R{0} M{1}"
+			}
+		]
+	},
 	"de": {
 		"values":[
 			{
@@ -261,265 +523,265 @@
 			}
 		]
 	},
-	"ru": {
+	"el": {
 		"values":[
 			{
 				"value": "New Game",
-				"translation": "Новая игра"
+				"translation": "Νέο παιχνίδι"
 			},
 			{
 				"value": "Publisher Deals",
-				"translation": "Предложения издателя"
+				"translation": "Εκδόσεις εκδότη"
 			},
 			{
 				"value": "Game Contracts",
-				"translation": "Игровые контракты"
+				"translation": "Συμβάσεις παιχνιδιών"
 			},
 			{
 				"value": "Topic and Genre",
-				"translation": "Тема и жанр"
+				"translation": "Θέμα και είδος"
 			},
 			{
 				"value": "Topic",
-				"translation": "Тема"
+				"translation": "Θέμα"
 			},
 			{
 				"value": "Genre",
-				"translation": "Жанр"
+				"translation": "Είδος"
 			},
 			{
 				"value": "Game Size",
-				"translation": "Размер игры"
+				"translation": "Μέγεθος παιχνιδιού"
 			},
 			{
 				"value": "Royalties",
-				"translation": "отчисления"
+				"translation": "Δικαιώματα"
 			},			
 			{
 				"value": "Penalty",
-				"translation": "Штрафы"
+				"translation": "Ποινή"
 			},
 			{
 				"value": "Up-front Pay",
-				"translation": "Плата за авансовый платеж"
+				"translation": "Προκαταβολή πληρωμής"
 			},
 			{
 				"value": "No License",
-				"translation": "Нет лицензии"
+				"translation": "Δεν υπάρχει Άδεια"
 			},		
 			{
 				"value": "Money",
-				"translation": "Деньги"
+				"translation": "Χρήματα"
 			},
 			{
 				"value": "Payroll",
-				"translation": "Платежная ведомость"
+				"translation": "Κατάσταση μισθοδοσίας"
 			},
 			{
 				"value": "Games",
-				"translation": "Игры"
+				"translation": "Παιχνίδια"
 			},
 			{
 				"value": "Consoles",
-				"translation": "консоли"
+				"translation": "Κονσόλες"
 			},
 			{
 				"value": "Weekly",
-				"translation": "еженедельно"
+				"translation": "Εβδομαδιαίος"
 			},
 			{
 				"value": "Monthly",
-				"translation": "ежемесячно"
+				"translation": "Μηνιαίος"
 			},
 			{
 				"value": "Annually",
-				"translation": "ежегодно"
+				"translation": "Ετησίως"
 			},
 			{
 				"value": "Level",
-				"translation": "уровень"
+				"translation": "Επίπεδο"
 			},
 			{
 				"value": "No Specialization",
-				"translation": "Нет специализации"
+				"translation": "Δεν υπάρχει εξειδίκευση"
 			},
 			{
 				"value": "Energy",
-				"translation": "энергии"
+				"translation": "Ενέργεια"
 			},
 			{
 				"value": "Game History",
-				"translation": "История игры"
+				"translation": "Ιστορικό παιχνιδιών"
 			},
 			{
 				"value": "Game Info",
-				"translation": "Информация об игре"
+				"translation": "Πληροφορίες παιχνιδιού"
 			},
 			{
 				"value": "Development",
-				"translation": "развитие"
+				"translation": "Ανάπτυξη"
 			},
 			{
 				"value": "Current Engine",
-				"translation": "Текущий двигатель"
+				"translation": "Τρέχουσα μηχανή"
 			},
 			{
 				"value": "No Engine",
-				"translation": "Нет двигателя"
+				"translation": "Δεν υπάρχει κινητήρας"
 			},
 			{
 				"value": "Dialogues",
-				"translation": "Диалоги"
+				"translation": "Διαλόγους"
 			},
 			{
 				"value": "Statistics",
-				"translation": "Статистика"
+				"translation": "Στατιστική"
 			},
 			{
 				"value": "Units Sold",
-				"translation": "Проданных единиц"
+				"translation": "Μονάδες που έχουν πωληθεί"
 			},
 			{
 				"value": "Costs",
-				"translation": "Расходы"
+				"translation": "Δικαστικά έξοδα"
 			},
 			{
 				"value": "Revenue",
-				"translation": "доходов"
+				"translation": "Εσοδα"
 			},
 			{
 				"value": "Released",
-				"translation": "опубликованный"
+				"translation": "Που δημοσιεύθηκε"
 			},
 			{
 				"value": "Top Sales Rank",
-				"translation": "Топ-рейтинг продаж"
+				"translation": "Top Κατάταξη Πωλήσεων"
 			},
 			{
 				"value": "Platforms",
-				"translation": "платформы"
+				"translation": "Πλατφόρμες"
 			},
 			{
 				"value": "Stage",
-				"translation": "стадия"
+				"translation": "φάση"
 			},
 			{
 				"value": "Stage 1",
-				"translation": "стадия 1"
+				"translation": "φάση 1"
 			},
 			{
 				"value": "Stage 2",
-				"translation": "стадия 2"
+				"translation": "φάση 2"
 			},
 			{
 				"value": "Stage 3",
-				"translation": "стадия 3"
+				"translation": "φάση 3"
 			},
 			{
 				"value": "Time Allocation",
-				"translation": "Распределение времени"
+				"translation": "Χρονική κατανομή"
 			},
 			{
 				"value": "Features",
-				"translation": "Характеристики"
+				"translation": "Χαρακτηριστικά"
 			},
 			{
 				"value": "Cost",
-				"translation": "Стоимость"
+				"translation": "Δικαστικά έξοδα"
 			},
 			{
 				"value": "Overall Score",
-				"translation": "Общая оценка"
+				"translation": "Συνολική βαθμολογία"
 			},
 			{
 				"value": "Cost to Make",
-				"translation": "Стоимость изготовления"
+				"translation": "Κόστος που πρέπει να γίνει"
 			},
 			{
 				"value": "Fans Gained",
-				"translation": "Поклонники, полученные"
+				"translation": "Οι ανεμιστήρες κέρδισαν"
 			},
 			{
 				"value": "Time",
-				"translation": "Время"
+				"translation": "χρόνος"
 			},
 			{
 				"value": "Pay",
-				"translation": "плата"
+				"translation": "Πληρωμή"
 			},
 			{
 				"value": "Salary",
-				"translation": "Оплата труда"
+				"translation": "Μισθός"
 			},
 			{
 				"value": "Info & Stats",
-				"translation": "Информация и статистика"
+				"translation": "Πληροφορίες και στατιστικές"
 			},
 			{
 				"value": "Generate Report",
-				"translation": "Создать отчет"
+				"translation": "Δημιουργία αναφοράς"
 			},
 			{
 				"value": "Dev. Cost",
-				"translation": "Стоимость разработки"
+				"translation": "Κόστος ανάπτυξης"
 			},
 			{
 				"value": "License Cost",
-				"translation": "Стоимость лицензии"
+				"translation": "Κόστος άδειας χρήσης"
 			},
 			{
 				"value": "Market Share",
-				"translation": "Рыночная доля"
+				"translation": "Μερίδιο αγοράς"
 			},
 			{
 				"value": "Rating",
-				"translation": "классификация"
+				"translation": "ταξινόμηση"
 			},
 			{
 				"value": "Profit",
-				"translation": "прибыль"
+				"translation": "Κέρδος"
 			},
 			{
 				"value": "Need to generate a report first.",
-				"translation": "Необходимо сначала создать отчет."
+				"translation": "Πρέπει πρώτα να δημιουργήσετε μια αναφορά."
 			},
 			{
 				"value": "Time has elapsed to generate a report.",
-				"translation": "Прошло время для создания отчета."
+				"translation": "Έχει παρέλθει ο χρόνος για τη δημιουργία μιας αναφοράς."
 			},
 			{
 				"value": "Insights",
-				"translation": "понимание"
+				"translation": "Στοιχεία"
 			},
 			{
 				"value": "Engine Development",
-				"translation": "Разработка двигателей"
+				"translation": "Ανάπτυξη κινητήρα"
 			},
 			{
 				"value": "Budget",
-				"translation": "бюджет"
+				"translation": "Προϋπολογισμός"
 			},
 			{
 				"value": "Select Staff",
-				"translation": "Выберите Персонал"
+				"translation": "Επιλέξτε Προσωπικό"
 			},
 			{
 				"value": "Choose Engine",
-				"translation": "Выберите двигатель"
+				"translation": "Επιλέξτε Μηχανή"
 			},
 			{
 				"value": "Develop Expansion Pack",
-				"translation": "Разработка пакета расширения"
+				"translation": "Ανάπτυξη του πακέτου επέκτασης"
 			},
 			{
 				"value": "Y{0}",
 				"comment": "date display",
-				"translation": "Г{0}"
+				"translation": "Ε{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
-				"translation": "Г{0} М{1}"
+				"translation": "Ε{0} M{1}"
 			}
 		]
 	},
@@ -1048,6 +1310,268 @@
 			}
 		]
 	},
+		"hu": {
+		"values":[
+			{
+				"value": "New Game",
+				"translation": "Új játék"
+			},
+			{
+				"value": "Publisher Deals",
+				"translation": "Kiadói ajánlatok"
+			},
+			{
+				"value": "Game Contracts",
+				"translation": "Játékszerződések"
+			},
+			{
+				"value": "Topic and Genre",
+				"translation": "Téma és műfaj"
+			},
+			{
+				"value": "Topic",
+				"translation": "Téma"
+			},
+			{
+				"value": "Genre",
+				"translation": "Műfaj"
+			},
+			{
+				"value": "Game Size",
+				"translation": "Játékméret"
+			},
+			{
+				"value": "Royalties",
+				"translation": "Jogdíj"
+			},			
+			{
+				"value": "Penalty",
+				"translation": "Büntetés"
+			},
+			{
+				"value": "Up-front Pay",
+				"translation": "Az első fizetés"
+			},
+			{
+				"value": "No License",
+				"translation": "Nincs engedély"
+			},		
+			{
+				"value": "Money",
+				"translation": "Pénz"
+			},
+			{
+				"value": "Payroll",
+				"translation": "Fizetés"
+			},
+			{
+				"value": "Games",
+				"translation": "Játékok"
+			},
+			{
+				"value": "Consoles",
+				"translation": "konzolok"
+			},
+			{
+				"value": "Weekly",
+				"translation": "Heti"
+			},
+			{
+				"value": "Monthly",
+				"translation": "Havi"
+			},
+			{
+				"value": "Annually",
+				"translation": "Évente"
+			},
+			{
+				"value": "Level",
+				"translation": "Szint"
+			},
+			{
+				"value": "No Specialization",
+				"translation": "Nincs szakirány"
+			},
+			{
+				"value": "Energy",
+				"translation": "Energia"
+			},
+			{
+				"value": "Game History",
+				"translation": "Játéktörténet"
+			},
+			{
+				"value": "Game Info",
+				"translation": "Játékinformáció"
+			},
+			{
+				"value": "Development",
+				"translation": "Fejlesztés"
+			},
+			{
+				"value": "Current Engine",
+				"translation": "Jelenlegi motor"
+			},
+			{
+				"value": "No Engine",
+				"translation": "Nincs motor"
+			},
+			{
+				"value": "Dialogues",
+				"translation": "párbeszédek"
+			},
+			{
+				"value": "Statistics",
+				"translation": "Statisztika"
+			},
+			{
+				"value": "Units Sold",
+				"translation": "Egység eladva"
+			},
+			{
+				"value": "Costs",
+				"translation": "kiadások"
+			},
+			{
+				"value": "Revenue",
+				"translation": "jövedelem"
+			},
+			{
+				"value": "Released",
+				"translation": "Közzétett"
+			},
+			{
+				"value": "Top Sales Rank",
+				"translation": "A legjobb értékesítési hely"
+			},
+			{
+				"value": "Platforms",
+				"translation": "állványok"
+			},
+			{
+				"value": "Stage",
+				"translation": "stádium"
+			},
+			{
+				"value": "Stage 1",
+				"translation": "stádium 1"
+			},
+			{
+				"value": "Stage 2",
+				"translation": "stádium 2"
+			},
+			{
+				"value": "Stage 3",
+				"translation": "stádium 3"
+			},
+			{
+				"value": "Time Allocation",
+				"translation": "Időmegosztás"
+			},
+			{
+				"value": "Features",
+				"translation": "Jellemzők"
+			},
+			{
+				"value": "Cost",
+				"translation": "Költség"
+			},
+			{
+				"value": "Overall Score",
+				"translation": "Összes pont"
+			},
+			{
+				"value": "Cost to Make",
+				"translation": "Költségek"
+			},
+			{
+				"value": "Fans Gained",
+				"translation": "Rajongók nyertek"
+			},
+			{
+				"value": "Time",
+				"translation": "Idő"
+			},
+			{
+				"value": "Pay",
+				"translation": "Fizetés"
+			},
+			{
+				"value": "Salary",
+				"translation": "Fizetés"
+			},
+			{
+				"value": "Info & Stats",
+				"translation": "Információk és statisztikák"
+			},
+			{
+				"value": "Generate Report",
+				"translation": "Jelentést készít"
+			},
+			{
+				"value": "Dev. Cost",
+				"translation": "Fejlesztési költség"
+			},
+			{
+				"value": "License Cost",
+				"translation": "Licenc költség"
+			},
+			{
+				"value": "Market Share",
+				"translation": "Piaci részesedés"
+			},
+			{
+				"value": "Rating",
+				"translation": "Értékelés"
+			},
+			{
+				"value": "Profit",
+				"translation": "Nyereség"
+			},
+			{
+				"value": "Need to generate a report first.",
+				"translation": "Először jelentést kell készítenie."
+			},
+			{
+				"value": "Time has elapsed to generate a report.",
+				"translation": "A jelentés elkészítéséhez eltelt idő telt el."
+			},
+			{
+				"value": "Insights",
+				"translation": "betekintést"
+			},
+			{
+				"value": "Engine Development",
+				"translation": "Motorfejlesztés"
+			},
+			{
+				"value": "Budget",
+				"translation": "Költségvetés"
+			},
+			{
+				"value": "Select Staff",
+				"translation": "Válassza ki a személyzetet"
+			},
+			{
+				"value": "Choose Engine",
+				"translation": "Válassza a Motort"
+			},
+						{
+				"value": "Develop Expansion Pack",
+				"translation": "Fejleszteni kell a bővítőcsomagot"
+			},
+			{
+				"value": "Y{0}",
+				"comment": "date display",
+				"translation": "É{0}"
+			},
+			{
+				"value": "Y{0} М{1}",
+				"comment": "date display",
+				"translation": "É{0} H{1}"
+			}
+		]
+	},
 	"it": {
 		"values":[
 	        {
@@ -1565,6 +2089,1578 @@
 				"value": "Y{0} М{1}",
 				"comment": "date display",
 				"translation": "J{0} М{1}"
+			}
+		]
+	},
+	"pl": {
+		"values":[
+			{
+				"value": "New Game",
+				"translation": "Nowa gra"
+			},
+			{
+				"value": "Publisher Deals",
+				"translation": "Oferty wydawców"
+			},
+			{
+				"value": "Game Contracts",
+				"translation": "Kontrakty z grami"
+			},
+			{
+				"value": "Topic and Genre",
+				"translation": "Temat i gatunek"
+			},
+			{
+				"value": "Topic",
+				"translation": "Temat"
+			},
+			{
+				"value": "Genre",
+				"translation": "Gatunek"
+			},
+			{
+				"value": "Game Size",
+				"translation": "Rozmiar gry"
+			},
+			{
+				"value": "Royalties",
+				"translation": "Opłaty licencyjne"
+			},			
+			{
+				"value": "Penalty",
+				"translation": "Rzut karny"
+			},
+			{
+				"value": "Up-front Pay",
+				"translation": "Płatność z góry"
+			},
+			{
+				"value": "No License",
+				"translation": "Bez licencji"
+			},		
+			{
+				"value": "Money",
+				"translation": "pieniądze"
+			},
+			{
+				"value": "Payroll",
+				"translation": "Lista płac"
+			},
+			{
+				"value": "Games",
+				"translation": "Gry"
+			},
+			{
+				"value": "Consoles",
+				"translation": "Konsole"
+			},
+			{
+				"value": "Weekly",
+				"translation": "Co tydzień"
+			},
+			{
+				"value": "Monthly",
+				"translation": "Miesięczny"
+			},
+			{
+				"value": "Annually",
+				"translation": "Rocznie"
+			},
+			{
+				"value": "Level",
+				"translation": "Poziom"
+			},
+			{
+				"value": "No Specialization",
+				"translation": "Brak specjalizacji"
+			},
+			{
+				"value": "Energy",
+				"translation": "Energia"
+			},
+			{
+				"value": "Game History",
+				"translation": "Historia gier"
+			},
+			{
+				"value": "Game Info",
+				"translation": "Informacje o grze"
+			},
+			{
+				"value": "Development",
+				"translation": "Rozwój"
+			},
+			{
+				"value": "Current Engine",
+				"translation": "Aktualny silnik"
+			},
+			{
+				"value": "No Engine",
+				"translation": "Bez silnika"
+			},
+			{
+				"value": "Dialogues",
+				"translation": "Dialogid"
+			},
+			{
+				"value": "Statistics",
+				"translation": "Statystyka"
+			},
+			{
+				"value": "Units Sold",
+				"translation": "Jednostki sprzedane"
+			},
+			{
+				"value": "Costs",
+				"translation": "Koszty"
+			},
+			{
+				"value": "Revenue",
+				"translation": "Dochód"
+			},
+			{
+				"value": "Released",
+				"translation": "Wydany"
+			},
+			{
+				"value": "Top Sales Rank",
+				"translation": "Najwyższa pozycja w sprzedaży"
+			},
+			{
+				"value": "Platforms",
+				"translation": "Platformy"
+			},
+			{
+				"value": "Stage",
+				"translation": "Faza"
+			},
+			{
+				"value": "Stage 1",
+				"translation": "Faza 1"
+			},
+			{
+				"value": "Stage 2",
+				"translation": "Faza 2"
+			},
+			{
+				"value": "Stage 3",
+				"translation": "Faza 3"
+			},
+			{
+				"value": "Time Allocation",
+				"translation": "Przydział czasu"
+			},
+			{
+				"value": "Features",
+				"translation": "funkcje"
+			},
+			{
+				"value": "Cost",
+				"translation": "Koszty"
+			},
+			{
+				"value": "Overall Score",
+				"translation": "Ogólna ocena"
+			},
+			{
+				"value": "Cost to Make",
+				"translation": "Koszt do zrobienia"
+			},
+			{
+				"value": "Fans Gained",
+				"translation": "Fani zdobyte"
+			},
+			{
+				"value": "Time",
+				"translation": "Czas"
+			},
+			{
+				"value": "Pay",
+				"translation": "Zapłacić"
+			},
+			{
+				"value": "Salary",
+				"translation": "Wynagrodzenie"
+			},
+			{
+				"value": "Info & Stats",
+				"translation": "Informacje i statystyki"
+			},
+			{
+				"value": "Generate Report",
+				"translation": "Generuj raport"
+			},
+			{
+				"value": "Dev. Cost",
+				"translation": "Koszty deweloperskie"
+			},
+			{
+				"value": "License Cost",
+				"translation": "Koszt licencji"
+			},
+			{
+				"value": "Market Share",
+				"translation": "Udział w rynku"
+			},
+			{
+				"value": "Rating",
+				"translation": "Ocena"
+			},
+			{
+				"value": "Profit",
+				"translation": "Zysk"
+			},
+			{
+				"value": "Need to generate a report first.",
+				"translation": "Najpierw musisz wygenerować raport."
+			},
+			{
+				"value": "Time has elapsed to generate a report.",
+				"translation": "Upłynął czas na wygenerowanie raportu."
+			},
+			{
+				"value": "Insights",
+				"translation": "wgląd"
+			},
+			{
+				"value": "Engine Development",
+				"translation": "Rozwój silnika"
+			},
+			{
+				"value": "Budget",
+				"translation": "Budżet"
+			},
+			{
+				"value": "Select Staff",
+				"translation": "Wybierz Personel"
+			},
+			{
+				"value": "Choose Engine",
+				"translation": "Wybierz silnik"
+			},
+			{
+				"value": "Develop Expansion Pack",
+				"translation": "Opracuj pakiet rozszerzeń"
+			},
+			{
+				"value": "Y{0}",
+				"comment": "date display",
+				"translation": "R{0}"
+			},
+			{
+				"value": "Y{0} М{1}",
+				"comment": "date display",
+				"translation": "R{0} М{1}"
+			}
+		]
+	},
+		"pt": {
+		"values":[
+			{
+				"value": "New Game",
+				"translation": "Novo jogo"
+			},
+			{
+				"value": "Publisher Deals",
+				"translation": "Ofertas de editores"
+			},
+			{
+				"value": "Game Contracts",
+				"translation": "Contratos de Jogo"
+			},
+			{
+				"value": "Topic and Genre",
+				"translation": "Tópico e gênero"
+			},
+			{
+				"value": "Topic",
+				"translation": "Tópico"
+			},
+			{
+				"value": "Genre",
+				"translation": "Gênero"
+			},
+			{
+				"value": "Game Size",
+				"translation": "Tamanho do jogo"
+			},
+			{
+				"value": "Royalties",
+				"translation": "a direitos autorais"
+			},			
+			{
+				"value": "Penalty",
+				"translation": "Multa"
+			},
+			{
+				"value": "Up-front Pay",
+				"translation": "Pagamento adiantado"
+			},
+			{
+				"value": "No License",
+				"translation": "Nenhuma licença"
+			},		
+			{
+				"value": "Money",
+				"translation": "Dinheiro"
+			},
+			{
+				"value": "Payroll",
+				"translation": "Folha de pagamento"
+			},
+			{
+				"value": "Games",
+				"translation": "Jogos"
+			},
+			{
+				"value": "Consoles",
+				"translation": "Consoles"
+			},
+			{
+				"value": "Weekly",
+				"translation": "Semanal"
+			},
+			{
+				"value": "Monthly",
+				"translation": "Mensal"
+			},
+			{
+				"value": "Annually",
+				"translation": "Anualmente"
+			},
+			{
+				"value": "Level",
+				"translation": "Nível"
+			},
+			{
+				"value": "No Specialization",
+				"translation": "Nenhuma especialização"
+			},
+			{
+				"value": "Energy",
+				"translation": "Energia"
+			},
+			{
+				"value": "Game History",
+				"translation": "História do Jogo"
+			},
+			{
+				"value": "Game Info",
+				"translation": "Informação do Jogo"
+			},
+			{
+				"value": "Development",
+				"translation": "Desenvolvimento"
+			},
+			{
+				"value": "Current Engine",
+				"translation": "Motor atual"
+			},
+			{
+				"value": "No Engine",
+				"translation": "Sem motor"
+			},
+			{
+				"value": "Dialogues",
+				"translation": "Diálogos"
+			},
+			{
+				"value": "Statistics",
+				"translation": "Estatisticas"
+			},
+			{
+				"value": "Units Sold",
+				"translation": "Unidades vendidas"
+			},
+			{
+				"value": "Costs",
+				"translation": "Custos"
+			},
+			{
+				"value": "Revenue",
+				"translation": "receita"
+			},
+			{
+				"value": "Released",
+				"translation": "Publicados"
+			},
+			{
+				"value": "Top Sales Rank",
+				"translation": "Top de vendas"
+			},
+			{
+				"value": "Platforms",
+				"translation": "Plataformas"
+			},
+			{
+				"value": "Stage",
+				"translation": "Estágio"
+			},
+			{
+				"value": "Stage 1",
+				"translation": "Estágio 1"
+			},
+			{
+				"value": "Stage 2",
+				"translation": "Estágio 2"
+			},
+			{
+				"value": "Stage 3",
+				"translation": "Estágio 3"
+			},
+			{
+				"value": "Time Allocation",
+				"translation": "Alocação de tempo"
+			},
+			{
+				"value": "Features",
+				"translation": "Características"
+			},
+			{
+				"value": "Cost",
+				"translation": "Custo"
+			},
+			{
+				"value": "Overall Score",
+				"translation": "Pontuação geral"
+			},
+			{
+				"value": "Cost to Make",
+				"translation": "Custo para fazer"
+			},
+			{
+				"value": "Fans Gained",
+				"translation": "Fãs ganhados"
+			},
+			{
+				"value": "Time",
+				"translation": "Tempo"
+			},
+			{
+				"value": "Pay",
+				"translation": "Pagar"
+			},
+			{
+				"value": "Salary",
+				"translation": "Salário"
+			},
+			{
+				"value": "Info & Stats",
+				"translation": "Informação e Estatística"
+			},
+			{
+				"value": "Generate Report",
+				"translation": "Gerar relatório"
+			},
+			{
+				"value": "Dev. Cost",
+				"translation": "Custo de desenvolvimento"
+			},
+			{
+				"value": "License Cost",
+				"translation": "Custo de licença"
+			},
+			{
+				"value": "Market Share",
+				"translation": "Quota de mercado"
+			},
+			{
+				"value": "Rating",
+				"translation": "Avaliação"
+			},
+			{
+				"value": "Profit",
+				"translation": "Lucro"
+			},
+			{
+				"value": "Need to generate a report first.",
+				"translation": "Precisa gerar um relatório primeiro."
+			},
+			{
+				"value": "Time has elapsed to generate a report.",
+				"translation": "Tempo decorrido para gerar um relatório."
+			},
+			{
+				"value": "Insights",
+				"translation": "Intuições"
+			},
+			{
+				"value": "Engine Development",
+				"translation": "Desenvolvimento de motores"
+			},
+			{
+				"value": "Budget",
+				"translation": "Despesas"
+			},
+			{
+				"value": "Select Staff",
+				"translation": "Selecione Pessoal"
+			},
+			{
+				"value": "Choose Engine",
+				"translation": "Escolha o motor"
+			},
+			{
+				"value": "Develop Expansion Pack",
+				"translation": "Desenvolver Pacote de Expansão"
+			},
+			{
+				"value": "Y{0}",
+				"comment": "date display",
+				"translation": "A{0}"
+			},
+			{
+				"value": "Y{0} М{1}",
+				"comment": "date display",
+				"translation": "A{0} М{1}"
+			}
+		]
+	},
+		"ru": {
+		"values":[
+			{
+				"value": "New Game",
+				"translation": "Новая игра"
+			},
+			{
+				"value": "Publisher Deals",
+				"translation": "Предложения издателя"
+			},
+			{
+				"value": "Game Contracts",
+				"translation": "Игровые контракты"
+			},
+			{
+				"value": "Topic and Genre",
+				"translation": "Тема и жанр"
+			},
+			{
+				"value": "Topic",
+				"translation": "Тема"
+			},
+			{
+				"value": "Genre",
+				"translation": "Жанр"
+			},
+			{
+				"value": "Game Size",
+				"translation": "Размер игры"
+			},
+			{
+				"value": "Royalties",
+				"translation": "отчисления"
+			},			
+			{
+				"value": "Penalty",
+				"translation": "Штрафы"
+			},
+			{
+				"value": "Up-front Pay",
+				"translation": "Плата за авансовый платеж"
+			},
+			{
+				"value": "No License",
+				"translation": "Нет лицензии"
+			},		
+			{
+				"value": "Money",
+				"translation": "Деньги"
+			},
+			{
+				"value": "Payroll",
+				"translation": "Платежная ведомость"
+			},
+			{
+				"value": "Games",
+				"translation": "Игры"
+			},
+			{
+				"value": "Consoles",
+				"translation": "консоли"
+			},
+			{
+				"value": "Weekly",
+				"translation": "еженедельно"
+			},
+			{
+				"value": "Monthly",
+				"translation": "ежемесячно"
+			},
+			{
+				"value": "Annually",
+				"translation": "ежегодно"
+			},
+			{
+				"value": "Level",
+				"translation": "уровень"
+			},
+			{
+				"value": "No Specialization",
+				"translation": "Нет специализации"
+			},
+			{
+				"value": "Energy",
+				"translation": "энергии"
+			},
+			{
+				"value": "Game History",
+				"translation": "История игры"
+			},
+			{
+				"value": "Game Info",
+				"translation": "Информация об игре"
+			},
+			{
+				"value": "Development",
+				"translation": "развитие"
+			},
+			{
+				"value": "Current Engine",
+				"translation": "Текущий двигатель"
+			},
+			{
+				"value": "No Engine",
+				"translation": "Нет двигателя"
+			},
+			{
+				"value": "Dialogues",
+				"translation": "Диалоги"
+			},
+			{
+				"value": "Statistics",
+				"translation": "Статистика"
+			},
+			{
+				"value": "Units Sold",
+				"translation": "Проданных единиц"
+			},
+			{
+				"value": "Costs",
+				"translation": "Расходы"
+			},
+			{
+				"value": "Revenue",
+				"translation": "доходов"
+			},
+			{
+				"value": "Released",
+				"translation": "опубликованный"
+			},
+			{
+				"value": "Top Sales Rank",
+				"translation": "Топ-рейтинг продаж"
+			},
+			{
+				"value": "Platforms",
+				"translation": "платформы"
+			},
+			{
+				"value": "Stage",
+				"translation": "стадия"
+			},
+			{
+				"value": "Stage 1",
+				"translation": "стадия 1"
+			},
+			{
+				"value": "Stage 2",
+				"translation": "стадия 2"
+			},
+			{
+				"value": "Stage 3",
+				"translation": "стадия 3"
+			},
+			{
+				"value": "Time Allocation",
+				"translation": "Распределение времени"
+			},
+			{
+				"value": "Features",
+				"translation": "Характеристики"
+			},
+			{
+				"value": "Cost",
+				"translation": "Стоимость"
+			},
+			{
+				"value": "Overall Score",
+				"translation": "Общая оценка"
+			},
+			{
+				"value": "Cost to Make",
+				"translation": "Стоимость изготовления"
+			},
+			{
+				"value": "Fans Gained",
+				"translation": "Поклонники, полученные"
+			},
+			{
+				"value": "Time",
+				"translation": "Время"
+			},
+			{
+				"value": "Pay",
+				"translation": "плата"
+			},
+			{
+				"value": "Salary",
+				"translation": "Оплата труда"
+			},
+			{
+				"value": "Info & Stats",
+				"translation": "Информация и статистика"
+			},
+			{
+				"value": "Generate Report",
+				"translation": "Создать отчет"
+			},
+			{
+				"value": "Dev. Cost",
+				"translation": "Стоимость разработки"
+			},
+			{
+				"value": "License Cost",
+				"translation": "Стоимость лицензии"
+			},
+			{
+				"value": "Market Share",
+				"translation": "Рыночная доля"
+			},
+			{
+				"value": "Rating",
+				"translation": "классификация"
+			},
+			{
+				"value": "Profit",
+				"translation": "прибыль"
+			},
+			{
+				"value": "Need to generate a report first.",
+				"translation": "Необходимо сначала создать отчет."
+			},
+			{
+				"value": "Time has elapsed to generate a report.",
+				"translation": "Прошло время для создания отчета."
+			},
+			{
+				"value": "Insights",
+				"translation": "понимание"
+			},
+			{
+				"value": "Engine Development",
+				"translation": "Разработка двигателей"
+			},
+			{
+				"value": "Budget",
+				"translation": "бюджет"
+			},
+			{
+				"value": "Select Staff",
+				"translation": "Выберите Персонал"
+			},
+			{
+				"value": "Choose Engine",
+				"translation": "Выберите двигатель"
+			},
+			{
+				"value": "Develop Expansion Pack",
+				"translation": "Разработка пакета расширения"
+			},
+			{
+				"value": "Y{0}",
+				"comment": "date display",
+				"translation": "Г{0}"
+			},
+			{
+				"value": "Y{0} М{1}",
+				"comment": "date display",
+				"translation": "Г{0} М{1}"
+			}
+		]
+	},
+	"sv": {
+		"values":[
+			{
+				"value": "New Game",
+				"translation": "Nytt spel"
+			},
+			{
+				"value": "Publisher Deals",
+				"translation": "Utgivaravtal"
+			},
+			{
+				"value": "Game Contracts",
+				"translation": "Spelkontrakt"
+			},
+			{
+				"value": "Topic and Genre",
+				"translation": "Ämne och genre"
+			},
+			{
+				"value": "Topic",
+				"translation": "Ämne"
+			},
+			{
+				"value": "Genre",
+				"translation": "Genre"
+			},
+			{
+				"value": "Game Size",
+				"translation": "Spelstorlek"
+			},
+			{
+				"value": "Royalties",
+				"translation": "Royalties"
+			},			
+			{
+				"value": "Penalty",
+				"translation": "Straff"
+			},
+			{
+				"value": "Up-front Pay",
+				"translation": "Uppbetalning framåt"
+			},
+			{
+				"value": "No License",
+				"translation": "Ingen licens"
+			},		
+			{
+				"value": "Money",
+				"translation": "Pengar"
+			},
+			{
+				"value": "Payroll",
+				"translation": "Löner"
+			},
+			{
+				"value": "Games",
+				"translation": "Spel"
+			},
+			{
+				"value": "Consoles",
+				"translation": "konsoler"
+			},
+			{
+				"value": "Weekly",
+				"translation": "Varje vecka"
+			},
+			{
+				"value": "Monthly",
+				"translation": "En gång i månaden"
+			},
+			{
+				"value": "Annually",
+				"translation": "Årligen"
+			},
+			{
+				"value": "Level",
+				"translation": "Nivå"
+			},
+			{
+				"value": "No Specialization",
+				"translation": "Ingen specialisering"
+			},
+			{
+				"value": "Energy",
+				"translation": "Energi"
+			},
+			{
+				"value": "Game History",
+				"translation": "Spelhistorik"
+			},
+			{
+				"value": "Game Info",
+				"translation": "Spelinformation"
+			},
+			{
+				"value": "Development",
+				"translation": "Utveckling"
+			},
+			{
+				"value": "Current Engine",
+				"translation": "Aktuell motor"
+			},
+			{
+				"value": "No Engine",
+				"translation": "Ingen motor"
+			},
+			{
+				"value": "Dialogues",
+				"translation": "dialoger"
+			},
+			{
+				"value": "Statistics",
+				"translation": "Statistik"
+			},
+			{
+				"value": "Units Sold",
+				"translation": "Enheter sålda"
+			},
+			{
+				"value": "Costs",
+				"translation": "Kostar"
+			},
+			{
+				"value": "Revenue",
+				"translation": "Inkomst"
+			},
+			{
+				"value": "Released",
+				"translation": "Publicerad"
+			},
+			{
+				"value": "Top Sales Rank",
+				"translation": "Bästa försäljningsrankningen"
+			},
+			{
+				"value": "Platforms",
+				"translation": "plattformar"
+			},
+			{
+				"value": "Stage",
+				"translation": "Fas"
+			},
+			{
+				"value": "Stage 1",
+				"translation": "Fas 1"
+			},
+			{
+				"value": "Stage 2",
+				"translation": "Fas 2"
+			},
+			{
+				"value": "Stage 3",
+				"translation": "Fas 3"
+			},
+			{
+				"value": "Time Allocation",
+				"translation": "Tidsallokering"
+			},
+			{
+				"value": "Features",
+				"translation": "Funktioner"
+			},
+			{
+				"value": "Cost",
+				"translation": "Kosta"
+			},
+			{
+				"value": "Overall Score",
+				"translation": "Totala poängen"
+			},
+			{
+				"value": "Cost to Make",
+				"translation": "Kostnad att göra"
+			},
+			{
+				"value": "Fans Gained",
+				"translation": "Fläktarna har fått"
+			},
+			{
+				"value": "Time",
+				"translation": "Tid"
+			},
+			{
+				"value": "Pay",
+				"translation": "Betala"
+			},
+			{
+				"value": "Salary",
+				"translation": "Lön"
+			},
+			{
+				"value": "Info & Stats",
+				"translation": "Information och statistik"
+			},
+			{
+				"value": "Generate Report",
+				"translation": "Generera rapport"
+			},
+			{
+				"value": "Dev. Cost",
+				"translation": "Utvecklingskostnad"
+			},
+			{
+				"value": "License Cost",
+				"translation": "Licenskostnad"
+			},
+			{
+				"value": "Market Share",
+				"translation": "Marknadsandel"
+			},
+			{
+				"value": "Rating",
+				"translation": "Betyg"
+			},
+			{
+				"value": "Profit",
+				"translation": "Vinst"
+			},
+			{
+				"value": "Need to generate a report first.",
+				"translation": "Behöver generera en rapport först."
+			},
+			{
+				"value": "Time has elapsed to generate a report.",
+				"translation": "Tiden har gått för att skapa en rapport."
+			},
+			{
+				"value": "Insights",
+				"translation": "Insikter"
+			},
+			{
+				"value": "Engine Development",
+				"translation": "Motorutveckling"
+			},
+			{
+				"value": "Budget",
+				"translation": "Budget"
+			},
+			{
+				"value": "Select Staff",
+				"translation": "Välj personal"
+			},
+			{
+				"value": "Choose Engine",
+				"translation": "Välj Motor"
+			},
+			{
+				"value": "Develop Expansion Pack",
+				"translation": "Utveckla expansionspaketet"
+			},
+			{
+				"value": "Y{0}",
+				"comment": "date display",
+				"translation": "Å{0}"
+			},
+			{
+				"value": "Y{0} М{1}",
+				"comment": "date display",
+				"translation": "Å{0} М{1}"
+			}
+		]
+	},
+	"tr": {
+		"values":[
+			{
+				"value": "New Game",
+				"translation": "Yeni oyun"
+			},
+			{
+				"value": "Publisher Deals",
+				"translation": "Yayınlanmış Fırsatlar"
+			},
+			{
+				"value": "Game Contracts",
+				"translation": "Oyun Sözleşmeleri"
+			},
+			{
+				"value": "Topic and Genre",
+				"translation": "Konu ve Tür"
+			},
+			{
+				"value": "Topic",
+				"translation": "Konu"
+			},
+			{
+				"value": "Genre",
+				"translation": "Tür"
+			},
+			{
+				"value": "Game Size",
+				"translation": "Oyun Boyutu"
+			},
+			{
+				"value": "Royalties",
+				"translation": "BEDELLERİ"
+			},			
+			{
+				"value": "Penalty",
+				"translation": "Ceza"
+			},
+			{
+				"value": "Up-front Pay",
+				"translation": "Ön ödeme"
+			},
+			{
+				"value": "No License",
+				"translation": "Lisans yok"
+			},		
+			{
+				"value": "Money",
+				"translation": "Para"
+			},
+			{
+				"value": "Payroll",
+				"translation": "Maaş bordrosu"
+			},
+			{
+				"value": "Games",
+				"translation": "Oyunlar"
+			},
+			{
+				"value": "Consoles",
+				"translation": "Konsollar"
+			},
+			{
+				"value": "Weekly",
+				"translation": "Haftalık"
+			},
+			{
+				"value": "Monthly",
+				"translation": "Aylık"
+			},
+			{
+				"value": "Annually",
+				"translation": "yıllık"
+			},
+			{
+				"value": "Level",
+				"translation": "seviye"
+			},
+			{
+				"value": "No Specialization",
+				"translation": "Uzmanlık Yok"
+			},
+			{
+				"value": "Energy",
+				"translation": "Enerji"
+			},
+			{
+				"value": "Game History",
+				"translation": "Oyun Geçmişi"
+			},
+			{
+				"value": "Game Info",
+				"translation": "Oyun Bilgileri"
+			},
+			{
+				"value": "Development",
+				"translation": "gelişme"
+			},
+			{
+				"value": "Current Engine",
+				"translation": "Mevcut Motor"
+			},
+			{
+				"value": "No Engine",
+				"translation": "Motor yok"
+			},
+			{
+				"value": "Dialogues",
+				"translation": "Diyaloglar"
+			},
+			{
+				"value": "Statistics",
+				"translation": "istatistik"
+			},
+			{
+				"value": "Units Sold",
+				"translation": "Satılan Birimler"
+			},
+			{
+				"value": "Costs",
+				"translation": "Maliyetler"
+			},
+			{
+				"value": "Revenue",
+				"translation": "gelir"
+			},
+			{
+				"value": "Released",
+				"translation": "Yayınlanan"
+			},
+			{
+				"value": "Top Sales Rank",
+				"translation": "En Çok Satış Sıralaması"
+			},
+			{
+				"value": "Platforms",
+				"translation": "Platformlar"
+			},
+			{
+				"value": "Stage",
+				"translation": "Evre"
+			},
+			{
+				"value": "Stage 1",
+				"translation": "Evre 1"
+			},
+			{
+				"value": "Stage 2",
+				"translation": "Evre 2"
+			},
+			{
+				"value": "Stage 3",
+				"translation": "Evre 3"
+			},
+			{
+				"value": "Time Allocation",
+				"translation": "Zaman Tahsisi"
+			},
+			{
+				"value": "Features",
+				"translation": "Özellikler"
+			},
+			{
+				"value": "Cost",
+				"translation": "Maliyet"
+			},
+			{
+				"value": "Overall Score",
+				"translation": "Genel puanı"
+			},
+			{
+				"value": "Cost to Make",
+				"translation": "Yapma Maliyeti"
+			},
+			{
+				"value": "Fans Gained",
+				"translation": "Kazanılanlar"
+			},
+			{
+				"value": "Time",
+				"translation": "zaman"
+			},
+			{
+				"value": "Pay",
+				"translation": "ödeme"
+			},
+			{
+				"value": "Salary",
+				"translation": "Maaş"
+			},
+			{
+				"value": "Info & Stats",
+				"translation": "Bilgi ve İstatistik"
+			},
+			{
+				"value": "Generate Report",
+				"translation": "Rapor oluştur"
+			},
+			{
+				"value": "Dev. Cost",
+				"translation": "Geliştirme ücreti"
+			},
+			{
+				"value": "License Cost",
+				"translation": "Lisans Maliyeti"
+			},
+			{
+				"value": "Market Share",
+				"translation": "Pazar payı"
+			},
+			{
+				"value": "Rating",
+				"translation": "Değerlendirme"
+			},
+			{
+				"value": "Profit",
+				"translation": "kâr"
+			},
+			{
+				"value": "Need to generate a report first.",
+				"translation": "Önce bir rapor oluşturmamız gerekiyor."
+			},
+			{
+				"value": "Time has elapsed to generate a report.",
+				"translation": "Rapor oluşturmak için geçen süre geçti."
+			},
+			{
+				"value": "Insights",
+				"translation": "Anlayışlar"
+			},
+			{
+				"value": "Engine Development",
+				"translation": "Motor Gelişimi"
+			},
+			{
+				"value": "Budget",
+				"translation": "Bütçe"
+			},
+			{
+				"value": "Select Staff",
+				"translation": "Personel Seç"
+			},
+			{
+				"value": "Choose Engine",
+				"translation": "Motor Seç"
+			},
+			{
+				"value": "Develop Expansion Pack",
+				"translation": "Genişleme Paketi Geliştirin"
+			},
+			{
+				"value": "Y{0}",
+				"comment": "date display",
+				"translation": "Y{0}"
+			},
+			{
+				"value": "Y{0} М{1}",
+				"comment": "date display",
+				"translation": "Y{0} A{1}"
+			}
+		]
+	},
+	"uk": {
+		"values":[
+			{
+				"value": "New Game",
+				"translation": "Нова гра"
+			},
+			{
+				"value": "Publisher Deals",
+				"translation": "Пропозиції видавця"
+			},
+			{
+				"value": "Game Contracts",
+				"translation": "Контракти на ігри"
+			},
+			{
+				"value": "Topic and Genre",
+				"translation": "Тема та жанр"
+			},
+			{
+				"value": "Topic",
+				"translation": "Тема"
+			},
+			{
+				"value": "Genre",
+				"translation": "Жанр"
+			},
+			{
+				"value": "Game Size",
+				"translation": "Розмір гри"
+			},
+			{
+				"value": "Royalties",
+				"translation": "Роялті"
+			},			
+			{
+				"value": "Penalty",
+				"translation": "Штраф"
+			},
+			{
+				"value": "Up-front Pay",
+				"translation": "Оплата передніми"
+			},
+			{
+				"value": "No License",
+				"translation": "Немає ліцензії"
+			},		
+			{
+				"value": "Money",
+				"translation": "Гроші"
+			},
+			{
+				"value": "Payroll",
+				"translation": "Зарплата"
+			},
+			{
+				"value": "Games",
+				"translation": "Ігри"
+			},
+			{
+				"value": "Consoles",
+				"translation": "Консолі"
+			},
+			{
+				"value": "Weekly",
+				"translation": "Щотижня"
+			},
+			{
+				"value": "Monthly",
+				"translation": "Щомісяця"
+			},
+			{
+				"value": "Annually",
+				"translation": "Щорічно"
+			},
+			{
+				"value": "Level",
+				"translation": "Рівень"
+			},
+			{
+				"value": "No Specialization",
+				"translation": "Немає спеціалізації"
+			},
+			{
+				"value": "Energy",
+				"translation": "Енергія"
+			},
+			{
+				"value": "Game History",
+				"translation": "Історія гри"
+			},
+			{
+				"value": "Game Info",
+				"translation": "Інформація про гру"
+			},
+			{
+				"value": "Development",
+				"translation": "Розвиток"
+			},
+			{
+				"value": "Current Engine",
+				"translation": "Поточний двигун"
+			},
+			{
+				"value": "No Engine",
+				"translation": "Немає двигуна"
+			},
+			{
+				"value": "Dialogues",
+				"translation": "Діалоги"
+			},
+			{
+				"value": "Statistics",
+				"translation": "Статистика"
+			},
+			{
+				"value": "Units Sold",
+				"translation": ""Продаються вузли
+			},
+			{
+				"value": "Costs",
+				"translation": "Витрати"
+			},
+			{
+				"value": "Revenue",
+				"translation": "Дохід"
+			},
+			{
+				"value": "Released",
+				"translation": "Опубліковано"
+			},
+			{
+				"value": "Top Sales Rank",
+				"translation": "Найвищий рейтинг збуту"
+			},
+			{
+				"value": "Platforms",
+				"translation": "Платформи"
+			},
+			{
+				"value": "Stage",
+				"translation": "Фаза"
+			},
+			{
+				"value": "Stage 1",
+				"translation": "Фаза 1"
+			},
+			{
+				"value": "Stage 2",
+				"translation": "Фаза 2"
+			},
+			{
+				"value": "Stage 3",
+				"translation": "Фаза 3"
+			},
+			{
+				"value": "Time Allocation",
+				"translation": "Розподіл часу"
+			},
+			{
+				"value": "Features",
+				"translation": "Особливості"
+			},
+			{
+				"value": "Cost",
+				"translation": "Вартість"
+			},
+			{
+				"value": "Overall Score",
+				"translation": "Загальний рахунок"
+			},
+			{
+				"value": "Cost to Make",
+				"translation": "Вартість зробити"
+			},
+			{
+				"value": "Fans Gained",
+				"translation": "Вболівальники отримали"
+			},
+			{
+				"value": "Time",
+				"translation": "Час"
+			},
+			{
+				"value": "Pay",
+				"translation": "Платити"
+			},
+			{
+				"value": "Salary",
+				"translation": "Зарплата"
+			},
+			{
+				"value": "Info & Stats",
+				"translation": "Інформація та статистика"
+			},
+			{
+				"value": "Generate Report",
+				"translation": "Створити звіт"
+			},
+			{
+				"value": "Dev. Cost",
+				"translation": "Вартість розробки"
+			},
+			{
+				"value": "License Cost",
+				"translation": "Вартість ліцензії"
+			},
+			{
+				"value": "Market Share",
+				"translation": "Частка ринку"
+			},
+			{
+				"value": "Rating",
+				"translation": "Рейтинг"
+			},
+			{
+				"value": "Profit",
+				"translation": "Прибуток"
+			},
+			{
+				"value": "Need to generate a report first.",
+				"translation": "Потрібно спершу створити звіт."
+			},
+			{
+				"value": "Time has elapsed to generate a report.",
+				"translation": "Настав час згенерувати звіт."
+			},
+			{
+				"value": "Insights",
+				"translation": "розуміння"
+			},
+			{
+				"value": "Engine Development",
+				"translation": "Розробка двигуна"
+			},
+			{
+				"value": "Budget",
+				"translation": "Бюджет"
+			},
+			{
+				"value": "Select Staff",
+				"translation": "Виберіть штат"
+			},
+			{
+				"value": "Choose Engine",
+				"translation": "Виберіть Двигун"
+			},
+			{
+				"value": "Develop Expansion Pack",
+				"translation": "Розробити пакет розширення"
+			},
+			{
+				"value": "Y{0}",
+				"comment": "date display",
+				"translation": "Р{0}"
+			},
+			{
+				"value": "Y{0} М{1}",
+				"comment": "date display",
+				"translation": "Р{0} M{1}"
 			}
 		]
 	}
