@@ -1045,7 +1045,6 @@
 				"comment": "date display",
 				"translation": "A{0} М{1}"
 			}
-			
 		]
 	},
 	"fr": {
@@ -1310,7 +1309,7 @@
 			}
 		]
 	},
-		"hu": {
+	"hu": {
 		"values":[
 			{
 				"value": "New Game",
@@ -2354,7 +2353,7 @@
 			}
 		]
 	},
-		"pt": {
+	"pt": {
 		"values":[
 			{
 				"value": "New Game",
@@ -2616,7 +2615,7 @@
 			}
 		]
 	},
-		"ru": {
+	"ru": {
 		"values":[
 			{
 				"value": "New Game",
