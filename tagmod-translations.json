@@ -2647,7 +2647,7 @@
 			},
 			{
 				"value": "Royalties",
-				"translation": "отчисления"
+				"translation": "Отчисления"
 			},			
 			{
 				"value": "Penalty",
@@ -2675,7 +2675,7 @@
 			},
 			{
 				"value": "Consoles",
-				"translation": "консоли"
+				"translation": "Консоли"
 			},
 			{
 				"value": "Weekly",
@@ -2699,7 +2699,7 @@
 			},
 			{
 				"value": "Energy",
-				"translation": "энергии"
+				"translation": "Энергия"
 			},
 			{
 				"value": "Game History",
@@ -2711,15 +2711,15 @@
 			},
 			{
 				"value": "Development",
-				"translation": "развитие"
+				"translation": "Разработка"
 			},
 			{
 				"value": "Current Engine",
-				"translation": "Текущий двигатель"
+				"translation": "Текущий движок"
 			},
 			{
 				"value": "No Engine",
-				"translation": "Нет двигателя"
+				"translation": "Нет движка"
 			},
 			{
 				"value": "Dialogues",
@@ -2739,35 +2739,35 @@
 			},
 			{
 				"value": "Revenue",
-				"translation": "доходов"
+				"translation": "Доходы"
 			},
 			{
 				"value": "Released",
-				"translation": "опубликованный"
+				"translation": "Опубликовано"
 			},
 			{
 				"value": "Top Sales Rank",
-				"translation": "Топ-рейтинг продаж"
+				"translation": "Рейтинг продаж"
 			},
 			{
 				"value": "Platforms",
-				"translation": "платформы"
+				"translation": "Платформы"
 			},
 			{
 				"value": "Stage",
-				"translation": "стадия"
+				"translation": "Стадия"
 			},
 			{
 				"value": "Stage 1",
-				"translation": "стадия 1"
+				"translation": "Стадия 1"
 			},
 			{
 				"value": "Stage 2",
-				"translation": "стадия 2"
+				"translation": "Стадия 2"
 			},
 			{
 				"value": "Stage 3",
-				"translation": "стадия 3"
+				"translation": "Стадия 3"
 			},
 			{
 				"value": "Time Allocation",
@@ -2791,7 +2791,7 @@
 			},
 			{
 				"value": "Fans Gained",
-				"translation": "Поклонники, полученные"
+				"translation": "Полученные поклонники"
 			},
 			{
 				"value": "Time",
@@ -2799,11 +2799,11 @@
 			},
 			{
 				"value": "Pay",
-				"translation": "плата"
+				"translation": "Плата"
 			},
 			{
 				"value": "Salary",
-				"translation": "Оплата труда"
+				"translation": "Зарплата"
 			},
 			{
 				"value": "Info & Stats",
@@ -2823,7 +2823,7 @@
 			},
 			{
 				"value": "Market Share",
-				"translation": "Рыночная доля"
+				"translation": "Доля на рынке"
 			},
 			{
 				"value": "Rating",
@@ -2831,7 +2831,7 @@
 			},
 			{
 				"value": "Profit",
-				"translation": "прибыль"
+				"translation": "Прибыль"
 			},
 			{
 				"value": "Need to generate a report first.",
@@ -2847,11 +2847,11 @@
 			},
 			{
 				"value": "Engine Development",
-				"translation": "Разработка двигателей"
+				"translation": "Разработка движка"
 			},
 			{
 				"value": "Budget",
-				"translation": "бюджет"
+				"translation": "Бюджет"
 			},
 			{
 				"value": "Select Staff",
@@ -2859,11 +2859,11 @@
 			},
 			{
 				"value": "Choose Engine",
-				"translation": "Выберите двигатель"
+				"translation": "Выберите движок"
 			},
 			{
 				"value": "Develop Expansion Pack",
-				"translation": "Разработка пакета расширения"
+				"translation": "Разработка дополнения"
 			},
 			{
 				"value": "Y{0}",
