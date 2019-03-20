@@ -67,7 +67,7 @@
 			},
 			{
 				"value": "Monthly",
-				"translation": "每月一次"
+				"translation": "每月"
 			},
 			{
 				"value": "Annually",
@@ -75,7 +75,7 @@
 			},
 			{
 				"value": "Level",
-				"translation": "水平"
+				"translation": "等级"
 			},
 			{
 				"value": "No Specialization",
