@@ -1,4 +1,266 @@
 ﻿{
+	"zhcn": {
+		"values":[
+			{
+				"value": "New Game",
+				"translation": "开发游戏"
+			},
+			{
+				"value": "Publisher Deals",
+				"translation": "出版商"
+			},
+			{
+				"value": "Game Contracts",
+				"translation": "游戏合约"
+			},
+			{
+				"value": "Topic and Genre",
+				"translation": "主题和类型"
+			},
+			{
+				"value": "Topic",
+				"translation": "主题"
+			},
+			{
+				"value": "Genre",
+				"translation": "类型"
+			},
+			{
+				"value": "Game Size",
+				"translation": "游戏大小"
+			},
+			{
+				"value": "Royalties",
+				"translation": "版权使用费"
+			},			
+			{
+				"value": "Penalty",
+				"translation": "罚款"
+			},
+			{
+				"value": "Up-front Pay",
+				"translation": "预付款"
+			},
+			{
+				"value": "No License",
+				"translation": "没有许可证"
+			},		
+			{
+				"value": "Money",
+				"translation": "钱"
+			},
+			{
+				"value": "Payroll",
+				"translation": "工资和薪水"
+			},
+			{
+				"value": "Games",
+				"translation": "游戏"
+			},
+			{
+				"value": "Consoles",
+				"translation": "控制台"
+			},
+			{
+				"value": "Weekly",
+				"translation": "每周"
+			},
+			{
+				"value": "Monthly",
+				"translation": "每月一次"
+			},
+			{
+				"value": "Annually",
+				"translation": "每年"
+			},
+			{
+				"value": "Level",
+				"translation": "水平"
+			},
+			{
+				"value": "No Specialization",
+				"translation": "没有专业化"
+			},
+			{
+				"value": "Energy",
+				"translation": "精力"
+			},
+			{
+				"value": "Game History",
+				"translation": "游戏历史"
+			},
+			{
+				"value": "Game Info",
+				"translation": "游戏信息"
+			},
+			{
+				"value": "Development",
+				"translation": "发展"
+			},
+			{
+				"value": "Current Engine",
+				"translation": "当前引擎"
+			},
+			{
+				"value": "No Engine",
+				"translation": "没有引擎"
+			},
+			{
+				"value": "Dialogues",
+				"translation": "对话"
+			},
+			{
+				"value": "Statistics",
+				"translation": "统计"
+			},
+			{
+				"value": "Units Sold",
+				"translation": "出售单位"
+			},
+			{
+				"value": "Costs",
+				"translation": "成本"
+			},
+			{
+				"value": "Revenue",
+				"translation": "收入"
+			},
+			{
+				"value": "Released",
+				"translation": "发布时间"
+			},
+			{
+				"value": "Top Sales Rank",
+				"translation": "最畅销排名"
+			},
+			{
+				"value": "Platforms",
+				"translation": "平台"
+			},
+			{
+				"value": "Stage",
+				"translation": "阶段"
+			},
+			{
+				"value": "Stage 1",
+				"translation": "阶段 1"
+			},
+			{
+				"value": "Stage 2",
+				"translation": "阶段 2"
+			},
+			{
+				"value": "Stage 3",
+				"translation": "阶段 3"
+			},
+			{
+				"value": "Time Allocation",
+				"translation": "时间分配"
+			},
+			{
+				"value": "Features",
+				"translation": "功能"
+			},
+			{
+				"value": "Cost",
+				"translation": "成本"
+			},
+			{
+				"value": "Overall Score",
+				"translation": "总点数"
+			},
+			{
+				"value": "Cost to Make",
+				"translation": "成本"
+			},
+			{
+				"value": "Fans Gained",
+				"translation": "获得了粉丝"
+			},
+			{
+				"value": "Time",
+				"translation": "时间"
+			},
+			{
+				"value": "Pay",
+				"translation": "工资"
+			},
+			{
+				"value": "Salary",
+				"translation": "薪水"
+			},
+			{
+				"value": "Info & Stats",
+				"translation": "信息和统计"
+			},
+			{
+				"value": "Generate Report",
+				"translation": "生成报告"
+			},
+			{
+				"value": "Dev. Cost",
+				"translation": "开发成本"
+			},
+			{
+				"value": "License Cost",
+				"translation": "许可证费用"
+			},
+			{
+				"value": "Market Share",
+				"translation": "市场份额"
+			},
+			{
+				"value": "Rating",
+				"translation": "评分"
+			},
+			{
+				"value": "Profit",
+				"translation": "利润"
+			},
+			{
+				"value": "Need to generate a report first.",
+				"translation": "需要先生成报告."
+			},
+			{
+				"value": "Time has elapsed to generate a report.",
+				"translation": "生成报告的时间已过."
+			},
+			{
+				"value": "Insights",
+				"translation": "眼光"
+			},
+			{
+				"value": "Engine Development",
+				"translation": "引擎开发"
+			},
+			{
+				"value": "Budget",
+				"translation": "预算"
+			},
+			{
+				"value": "Select Staff",
+				"translation": "选择员工"
+			},
+			{
+				"value": "Choose Engine",
+				"translation": "选择引擎"
+			},
+			{
+				"value": "Develop Expansion Pack",
+				"translation": "开发扩展包"
+			},
+			{
+				"value": "Y{0}",
+				"comment": "日期显示",
+				"translation": "J{0}"
+			},
+			{
+				"value": "Y{0} M{1}",
+				"comment": "日期显示",
+				"translation": "J{0} M{1}"
+			}
+		]
+	},
 	"cs": {
 		"values":[
 			{
