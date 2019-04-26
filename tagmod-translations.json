@@ -3924,5 +3924,259 @@
 				"translation": "Р{0} M{1}"
 			}
 		]
+	},
+	"arsa": {
+		"values":[
+			{
+				"value": "New Game",
+				"translation": " لعبة جديدة"
+			},
+			{
+				"value": "Publisher Deals",
+				"translation": " عروض الناشر"
+			},
+			{
+				"value": "Game Contracts",
+				"translation": "عقود اللعبة"
+			},
+			{
+				"value": "Topic and Genre",
+				"translation": "الموضوع والنوع"
+			},
+			{
+				"value": "Topic",
+				"translation": "موضوع"
+			},
+			{
+				"value": "Genre",
+				"translation": "رسوم"
+			},
+			{
+				"value": "Game Size",
+				"translation": " حجم اللعبة"
+			},
+			{
+				"value": "Royalties",
+				"translation": " العائدات"
+			},			
+			{
+				"value": "Penalty",
+				"translation": " عقوبة"
+			},
+			{
+				"value": "Up-front Pay",
+				"translation": " الدفع مقدما"
+			},
+			{
+				"value": "No License",
+				"translation": "لا ترخيص"
+			},		
+			{
+				"value": "Money",
+				"translation": "مال"
+			},
+			{
+				"value": "Payroll",
+				"translation": "كشف رواتب"
+			},
+			{
+				"value": "Games",
+				"translation": "ألعاب"
+			},
+			{
+				"value": "Consoles",
+				"translation": "لوحة مراقبة"
+			},
+			{
+				"value": "Weekly",
+				"translation": "أسبوعي"
+			},
+			{
+				"value": "Monthly",
+				"translation": "شهريا"
+			},
+			{
+				"value": "Annually",
+				"translation": "سنويا"
+			},
+			{
+				"value": "Level",
+				"translation": "مستوى"
+			},
+			{
+				"value": "No Specialization",
+				"translation": "لا التخصص"
+			},
+			{
+				"value": "Energy",
+				"translation": "طاقة"
+			},
+			{
+				"value": "Game History",
+				"translation": "تاريخ اللعبة"
+			},
+			{
+				"value": "Game Info",
+				"translation": "معلومات اللعبة"
+			},
+			{
+				"value": "Development",
+				"translation": "تطوير"
+			},
+			{
+				"value": "Current Engine",
+				"translation": "المحرك الحالي"
+			},
+			{
+				"value": "No Engine",
+				"translation": "لا محرك"
+			},
+			{
+				"value": "Dialogues",
+				"translation": "حوارات"
+			},
+			{
+				"value": "Statistics",
+				"translation": "الإحصاء"
+			},
+			{
+				"value": "Units Sold",
+				"translation": "الوحدات المباعة"
+			},
+			{
+				"value": "Costs",
+				"translation": "التكاليف"
+			},
+			{
+				"value": "Revenue",
+				"translation": "إيرادات"
+			},
+			{
+				"value": "Released",
+				"translation": "صدر"
+			},
+			{
+				"value": "Top Sales Rank",
+				"translation": "أعلى رتبة المبيعات"
+			},
+			{
+				"value": "Platforms",
+				"translation": "منصات"
+			},
+			{
+				"value": "Stage",
+				"translation": "المرحلة"
+			},
+			{
+				"value": "Stage 1",
+				"translation": "المرحلة 1"
+			},
+			{
+				"value": "Stage 2",
+				"translation": "المرحلة 2"
+			},
+			{
+				"value": "Stage 3",
+				"translation": "المرحلة 3"
+			},
+			{
+				"value": "Time Allocation",
+				"translation": "توزيع الوقت"
+			},
+			{
+				"value": "Features",
+				"translation": "المميزات"
+			},
+			{
+				"value": "Cost",
+				"translation": "كلفة"
+			},
+			{
+				"value": "Overall Score",
+				"translation": "المجموع النهائي"
+			},
+			{
+				"value": "Cost to Make",
+				"translation": "تكلفة الانتاج"
+			},
+			{
+				"value": "Fans Gained",
+				"translation": "عدد المعجبين"
+			},
+			{
+				"value": "Time",
+				"translation": "زمن"
+			},
+			{
+				"value": "Pay",
+				"translation": "دفع"
+			},
+			{
+				"value": "Salary",
+				"translation": "راتب"
+			},
+			{
+				"value": "Info & Stats",
+				"translation": "معلومات واحصائيات"
+			},
+			{
+				"value": "Generate Report",
+				"translation": "تقديم تقرير"
+			},
+			{
+				"value": "Dev. Cost",
+				"translation": "ديف. كلفة"
+			},
+			{
+				"value": "License Cost",
+				"translation": "تكلفة الترخيص"
+			},
+			{
+				"value": "Market Share",
+				"translation": "الحصة السوقية"
+			},
+			{
+				"value": "Rating",
+				"translation": "تقييم"
+			},
+			{
+				"value": "Profit",
+				"translation": "ربح"
+			},
+			{
+				"value": "Need to generate a report first.",
+				"translation": "تحتاج إلى إنشاء تقرير أولا."
+			},
+			{
+				"value": "Time has elapsed to generate a report.",
+				"translation": "لقد انقضى الوقت لإنشاء تقرير."
+			},
+			{
+				"value": "Insights",
+				"translation": "أفكارا"
+			},
+			{
+				"value": "Budget",
+				"translation": "ميزانية"
+			},
+			{
+				"value": "Select Staff",
+				"translation": " اختيار الموظفين"
+			},
+			{
+				"value": "Develop Expansion Pack",
+				"translation": "تطوير حزمة التوسع"
+			},
+			{
+				"value": "Y{0}",
+				"comment": "date display",
+				"translation": "Р{0}"
+			},
+			{
+				"value": "Y{0} М{1}",
+				"comment": "date display",
+				"translation": "Р{0} M{1}"
+			}
+		]
 	}
 }
