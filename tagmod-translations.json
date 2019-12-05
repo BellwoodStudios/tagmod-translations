@@ -3409,7 +3409,7 @@
 			},
 			{
 				"value": "Publisher Deals",
-				"translation": "Yayınlanmış Fırsatlar"
+				"translation": "Yayınlama Fırsatları"
 			},
 			{
 				"value": "Game Contracts",
@@ -3433,7 +3433,7 @@
 			},
 			{
 				"value": "Royalties",
-				"translation": "BEDELLERİ"
+				"translation": "Bedelleri"
 			},			
 			{
 				"value": "Penalty",
@@ -3453,7 +3453,7 @@
 			},
 			{
 				"value": "Payroll",
-				"translation": "Maaş bordrosu"
+				"translation": "Maaş Tablosu"
 			},
 			{
 				"value": "Games",
@@ -3473,11 +3473,11 @@
 			},
 			{
 				"value": "Annually",
-				"translation": "yıllık"
+				"translation": "Yıllık"
 			},
 			{
 				"value": "Level",
-				"translation": "seviye"
+				"translation": "Seviye"
 			},
 			{
 				"value": "No Specialization",
@@ -3497,7 +3497,7 @@
 			},
 			{
 				"value": "Development",
-				"translation": "gelişme"
+				"translation": "Gelişme"
 			},
 			{
 				"value": "Current Engine",
@@ -3513,7 +3513,7 @@
 			},
 			{
 				"value": "Statistics",
-				"translation": "istatistik"
+				"translation": "istatistikler"
 			},
 			{
 				"value": "Units Sold",
@@ -3525,7 +3525,7 @@
 			},
 			{
 				"value": "Revenue",
-				"translation": "gelir"
+				"translation": "Gelir"
 			},
 			{
 				"value": "Released",
@@ -3541,23 +3541,23 @@
 			},
 			{
 				"value": "Stage",
-				"translation": "Evre"
+				"translation": "Bölüm"
 			},
 			{
 				"value": "Stage 1",
-				"translation": "Evre 1"
+				"translation": "Bölüm 1"
 			},
 			{
 				"value": "Stage 2",
-				"translation": "Evre 2"
+				"translation": "Bölüm 2"
 			},
 			{
 				"value": "Stage 3",
-				"translation": "Evre 3"
+				"translation": "Bölüm 3"
 			},
 			{
 				"value": "Time Allocation",
-				"translation": "Zaman Tahsisi"
+				"translation": "Zaman Düzenlemesi"
 			},
 			{
 				"value": "Features",
@@ -3569,23 +3569,23 @@
 			},
 			{
 				"value": "Overall Score",
-				"translation": "Genel puanı"
+				"translation": "Genel Puan"
 			},
 			{
 				"value": "Cost to Make",
-				"translation": "Yapma Maliyeti"
+				"translation": "Yapım Maliyeti"
 			},
 			{
 				"value": "Fans Gained",
-				"translation": "Kazanılanlar"
+				"translation": "Kazanılan Hayranlar"
 			},
 			{
 				"value": "Time",
-				"translation": "zaman"
+				"translation": "Zaman"
 			},
 			{
 				"value": "Pay",
-				"translation": "ödeme"
+				"translation": "Ödeme"
 			},
 			{
 				"value": "Salary",
@@ -3593,7 +3593,7 @@
 			},
 			{
 				"value": "Info & Stats",
-				"translation": "Bilgi ve İstatistik"
+				"translation": "Bilgi ve İstatistikler"
 			},
 			{
 				"value": "Generate Report",
@@ -3601,7 +3601,7 @@
 			},
 			{
 				"value": "Dev. Cost",
-				"translation": "Geliştirme ücreti"
+				"translation": "Geliştirme Ücreti"
 			},
 			{
 				"value": "License Cost",
@@ -3609,7 +3609,7 @@
 			},
 			{
 				"value": "Market Share",
-				"translation": "Pazar payı"
+				"translation": "Pazar Payı"
 			},
 			{
 				"value": "Rating",
@@ -3617,15 +3617,15 @@
 			},
 			{
 				"value": "Profit",
-				"translation": "kâr"
+				"translation": "Kâr"
 			},
 			{
 				"value": "Need to generate a report first.",
-				"translation": "Önce bir rapor oluşturmamız gerekiyor."
+				"translation": "Önce bir rapor oluşturmak gerekiyor."
 			},
 			{
 				"value": "Time has elapsed to generate a report.",
-				"translation": "Rapor oluşturmak için geçen süre geçti."
+				"translation": "Rapor oluşturmak için belirlenen süre geçti."
 			},
 			{
 				"value": "Insights",
