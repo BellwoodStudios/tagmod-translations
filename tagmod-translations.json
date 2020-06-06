@@ -2647,7 +2647,7 @@
 			},
 			{
 				"value": "Royalties",
-				"translation": "a direitos autorais"
+				"translation": "direitos autorais"
 			},			
 			{
 				"value": "Penalty",
@@ -2715,11 +2715,11 @@
 			},
 			{
 				"value": "Current Engine",
-				"translation": "Motor atual"
+				"translation": "Motor gráfico atual"
 			},
 			{
 				"value": "No Engine",
-				"translation": "Sem motor"
+				"translation": "Sem motor gráfico"
 			},
 			{
 				"value": "Dialogues",
@@ -2739,7 +2739,7 @@
 			},
 			{
 				"value": "Revenue",
-				"translation": "receita"
+				"translation": "Receita"
 			},
 			{
 				"value": "Released",
