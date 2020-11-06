@@ -2647,7 +2647,7 @@
 			},
 			{
 				"value": "Royalties",
-				"translation": "a direitos autorais"
+				"translation": "direitos autorais"
 			},			
 			{
 				"value": "Penalty",
@@ -2759,15 +2759,15 @@
 			},
 			{
 				"value": "Stage 1",
-				"translation": "Estágio 1"
+				"translation": "Fase 1"
 			},
 			{
 				"value": "Stage 2",
-				"translation": "Estágio 2"
+				"translation": "Fase 2"
 			},
 			{
 				"value": "Stage 3",
-				"translation": "Estágio 3"
+				"translation": "Fase 3"
 			},
 			{
 				"value": "Time Allocation",
@@ -2814,10 +2814,6 @@
 				"translation": "Gerar relatório"
 			},
 			{
-				"value": "Dev. Cost",
-				"translation": "Custo de desenvolvimento"
-			},
-			{
 				"value": "License Cost",
 				"translation": "Custo de licença"
 			},
@@ -2855,7 +2851,7 @@
 			},
 			{
 				"value": "Select Staff",
-				"translation": "Selecione Pessoal"
+				"translation": "Seleciona Pessoa"
 			},
 			{
 				"value": "Choose Engine",
@@ -2864,6 +2860,22 @@
 			{
 				"value": "Develop Expansion Pack",
 				"translation": "Desenvolver Pacote de Expansão"
+			},
+			{
+				"value": "Dev Cost",
+				"translation": "Custo de Desenvolvimento"
+			},
+			{
+				"value": "Genre Match",
+				"translation": "Gênero de Jogo"
+			},
+			{
+				"value": "Unknown",
+				"translation": "Desconhecido"
+			},
+			{
+				"value": "Last Genre Used",
+				"translation": "Último gênero usado"
 			},
 			{
 				"value": "Y{0}",
