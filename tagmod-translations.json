@@ -1303,7 +1303,7 @@
 				"translation": "A{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
 				"translation": "A{0} М{1}"
 			}
@@ -1565,7 +1565,7 @@
 				"translation": "A{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
 				"translation": "A{0} М{1}"
 			}
@@ -1827,7 +1827,7 @@
 				"translation": "É{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
 				"translation": "É{0} H{1}"
 			}
@@ -2085,7 +2085,7 @@
 				"translation": "A{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
 				"translation": "A{0} М{1}"
 			}
@@ -2347,7 +2347,7 @@
 				"translation": "J{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
 				"translation": "J{0} М{1}"
 			}
@@ -2609,7 +2609,7 @@
 				"translation": "R{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
 				"translation": "R{0} М{1}"
 			}
@@ -2883,7 +2883,7 @@
 				"translation": "A{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
 				"translation": "A{0} М{1}"
 			}
@@ -3145,7 +3145,7 @@
 				"translation": "Г{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
 				"translation": "Г{0} М{1}"
 			}
@@ -3407,7 +3407,7 @@
 				"translation": "Å{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
 				"translation": "Å{0} М{1}"
 			}
@@ -3669,7 +3669,7 @@
 				"translation": "Y{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
 				"translation": "Y{0} A{1}"
 			}
@@ -3931,7 +3931,7 @@
 				"translation": "Р{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
 				"translation": "Р{0} M{1}"
 			}
@@ -4185,7 +4185,7 @@
 				"translation": "Р{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
 				"translation": "Р{0} M{1}"
 			}
