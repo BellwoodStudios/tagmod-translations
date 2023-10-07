@@ -1924,6 +1924,10 @@
 				"translation": "Info sul Gioco"
 			},
 			{
+				"value": "Game History",
+				"translation": "Storia del Gioco"
+			},
+			{
 				"value": "Development",
 				"translation": "Sviluppo"
 			},
@@ -2018,6 +2022,10 @@
 			{
 				"value": "Pay",
 				"translation": "Paga"
+			},
+			{
+				"value": "Salary",
+				"translation": "Stipendio"
 			},
 			{
 				"value": "Info & Stats",
