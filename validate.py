@@ -35,7 +35,8 @@ def run_test():
                 translation = translation_pair['translation']
 
                 provided_phrases.append(phrase)
-                error_flag = check_translation(phrase, translation)
+                new_flag = check_translation(phrase, translation)
+                error_flag = new_flag if new_flag != 0 else error_flag
 
             new_flag = check_missing_translations(provided_phrases)
             error_flag = new_flag if new_flag != 0 else error_flag
