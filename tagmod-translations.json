@@ -4176,12 +4176,20 @@
 				"translation": "أفكارا"
 			},
 			{
+				"value": "Engine Development",
+				"translation": "تطوير المحرك"
+			},
+			{
 				"value": "Budget",
 				"translation": "ميزانية"
 			},
 			{
 				"value": "Select Staff",
 				"translation": " اختيار الموظفين"
+			},
+			{
+				"value": "Choose Engine",
+				"translation": "اختر المحرك"
 			},
 			{
 				"value": "Develop Expansion Pack",
