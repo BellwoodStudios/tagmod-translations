@@ -1303,7 +1303,7 @@
 				"translation": "A{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
 				"translation": "A{0} М{1}"
 			}
@@ -1565,7 +1565,7 @@
 				"translation": "A{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
 				"translation": "A{0} М{1}"
 			}
@@ -1827,7 +1827,7 @@
 				"translation": "É{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
 				"translation": "É{0} H{1}"
 			}
@@ -1876,8 +1876,8 @@
 				"translation": "Stipendio Iniziale"
 			},
 			{
-				"value": "no license",
-				"translation": "nessuna licenza"
+				"value": "No License",
+				"translation": "Nessuna Licenza"
 			},
 			{
 				"value": "Money",
@@ -1922,6 +1922,10 @@
 			{
 				"value": "Game Info",
 				"translation": "Info sul Gioco"
+			},
+			{
+				"value": "Game History",
+				"translation": "Storia del Gioco"
 			},
 			{
 				"value": "Development",
@@ -2020,6 +2024,10 @@
 				"translation": "Paga"
 			},
 			{
+				"value": "Salary",
+				"translation": "Stipendio"
+			},
+			{
 				"value": "Info & Stats",
 				"translation": "Info e Statistiche"
 			},
@@ -2085,7 +2093,7 @@
 				"translation": "A{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
 				"translation": "A{0} М{1}"
 			}
@@ -2347,7 +2355,7 @@
 				"translation": "J{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
 				"translation": "J{0} М{1}"
 			}
@@ -2609,7 +2617,7 @@
 				"translation": "R{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
 				"translation": "R{0} М{1}"
 			}
@@ -2883,7 +2891,7 @@
 				"translation": "A{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
 				"translation": "A{0} М{1}"
 			}
@@ -3145,7 +3153,7 @@
 				"translation": "Г{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
 				"translation": "Г{0} М{1}"
 			}
@@ -3407,7 +3415,7 @@
 				"translation": "Å{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
 				"translation": "Å{0} М{1}"
 			}
@@ -3669,7 +3677,7 @@
 				"translation": "Y{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
 				"translation": "Y{0} A{1}"
 			}
@@ -3931,7 +3939,7 @@
 				"translation": "Р{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
 				"translation": "Р{0} M{1}"
 			}
@@ -4168,12 +4176,20 @@
 				"translation": "أفكارا"
 			},
 			{
+				"value": "Engine Development",
+				"translation": "تطوير المحرك"
+			},
+			{
 				"value": "Budget",
 				"translation": "ميزانية"
 			},
 			{
 				"value": "Select Staff",
 				"translation": " اختيار الموظفين"
+			},
+			{
+				"value": "Choose Engine",
+				"translation": "اختر المحرك"
 			},
 			{
 				"value": "Develop Expansion Pack",
@@ -4185,7 +4201,7 @@
 				"translation": "Р{0}"
 			},
 			{
-				"value": "Y{0} М{1}",
+				"value": "Y{0} M{1}",
 				"comment": "date display",
 				"translation": "Р{0} M{1}"
 			}
